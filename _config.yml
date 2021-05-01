@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Filebox                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1558391784                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -36,26 +36,26 @@ features                                  :
 
   - title                                 : File Management
     description                           : Manage your local files - Edit, Delete, View, Share, Move, Unzip.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : folder
     
   - title                                 : Remote Connection
     description                           : Connect with your MAC, PC, NAS, FTP, SMB, SFTP
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : hdd
 
   - title                                 : Music Player
     description                           : Play with your loved songs with filebox
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : music
 
   - title                                 : Movie Player
     description                           : Play remote and local videos with full control, also played history remembered.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : film
 
   - title                                 : Text Eitor
-    description                           : With code highlight
-    fontawesome_icon_name                 : adjust
+    description                           : Edit text files with code highlight
+    fontawesome_icon_name                 : font
   
   - title                                 : Customizeable
-    description                           : Everything you can imagine is customizeable. 
+    description                           : Everything you can imagine is customizeable.
     fontawesome_icon_name                 : star
 
   # - title                                 : Smart App Banner
@@ -81,7 +81,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/headerimage.jpeg                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
@@ -98,8 +98,8 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
-feature_icons_background_color            : "#e6e6e6"
+feature_icons_foreground_color            : "#ffffff"
+feature_icons_background_color            : "#FFCA28"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
