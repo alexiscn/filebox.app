@@ -1,0 +1,141 @@
+#page title
+page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+
+# App Info
+ios_app_id                                : 1558391784                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+
+appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            :                                           # Enter Google Play Store URL.
+presskit_download_link                    : https://filebox.space                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+                                                                                      # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+
+app_icon                                  : assets/filebox-logo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : Filebox - Play with files                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : $0.99                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : A modern app designed for iOS and iPadOS. Offers file management, music player, video player and text editor.
+
+enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
+
+
+
+# Information About Yourself
+your_name                                 : Filebox                                
+your_link                                 : https://filebox.space
+your_city                                 : Beijing                                
+email_address                             : filebox.app@outlook.com
+# facebook_username                         :                                           
+# instagram_username                        : ebaehr
+twitter_username                          : FileboxApp
+# github_username                           : emilbaehr
+# youtube_username                          :
+
+
+
+# Feature List                            Edit, add or remove features to be presented.
+features                                  :
+
+  - title                                 : File Management
+    description                           : Manage your local files - Edit, Delete, View, Share, Move, Unzip.
+    fontawesome_icon_name                 : magic
+    
+  - title                                 : Remote Connection
+    description                           : Connect with your MAC, PC, NAS, FTP, SMB, SFTP
+    fontawesome_icon_name                 : mobile
+
+  - title                                 : Music Player
+    description                           : Play with your loved songs with filebox
+    fontawesome_icon_name                 : play-circle
+
+  - title                                 : Movie Player
+    description                           : Play remote and local videos with full control, also played history remembered.
+    fontawesome_icon_name                 : sync
+
+  - title                                 : Text Eitor
+    description                           : With code highlight
+    fontawesome_icon_name                 : adjust
+  
+  - title                                 : Customizeable
+    description                           : Everything you can imagine is customizeable. 
+    fontawesome_icon_name                 : star
+
+  # - title                                 : Smart App Banner
+  #   description                           : Display a smart app banner on iOS devices.
+  #   fontawesome_icon_name                 : arrow-alt-circle-down
+
+  # - title                                 : Social Links
+  #   description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  #   fontawesome_icon_name                 : link
+
+  # - title                                 : FontAwesome Support
+  #   description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  #   fontawesome_icon_name                 : info-circle
+
+  - title                                 : # New Feature Title
+    description                           : # New Feature Description
+    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+
+
+
+# Theme Settings
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.1
+topbar_title_color                        : "#ffffff"
+
+cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#363b3d"
+cover_overlay_transparency                : 0.8
+
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+
+body_background_color                     : "#ffffff"
+
+link_color                                : "#1d63ea"
+
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
+
+feature_title_color                       : "#000000"
+feature_text_color                        : "#666666"
+
+feature_icons_foreground_color            : "#1d63ea"
+feature_icons_background_color            : "#e6e6e6"
+
+social_icons_foreground_color             : "#666666"
+social_icons_background_color             : "#e6e6e6"
+
+footer_text_color                         : "#666666"
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Markdown rendering
+markdown: kramdown
