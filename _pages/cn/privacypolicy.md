@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Privacy Policy
+title: 隐私政策
 include_in_header: false
-locale: en
+locale: cn
 ---
 
 **Last updated**  

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: What's New
+title: 最近更新
 include_in_header: true
-locale: en
+locale: cn
 ---
 
 # Changelog

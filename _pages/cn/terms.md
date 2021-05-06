@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Terms of Use
+title: 使用条款
 include_in_header: false
-locale: en
+locale: cn
 ---
 
 **Last updated**  

@@ -13,8 +13,9 @@ app_icon                                  : assets/filebox-logo.png             
 app_name                                  : Filebox - Play with files                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : $0.99                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : A modern app designed for iOS and iPadOS. Offers file management, music player, video player and text editor.
-
+app_description_cn                        : 一款为iOS、iPadOS设计的现代化音乐，提供了文件管理、音乐播放器、视频播放器与文本编辑器
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
+
 
 
 
@@ -47,10 +48,10 @@ features                                  :
     fontawesome_icon_name                 : music
 
   - title                                 : Movie Player
-    description                           : Play remote and local videos with full control, also played history remembered.
+    description                           : More video type supported - MKV, FLV, RMVB and so on
     fontawesome_icon_name                 : film
 
-  - title                                 : Text Eitor
+  - title                                 : Text Editor
     description                           : Edit text files with code highlight
     fontawesome_icon_name                 : font
   
@@ -75,6 +76,32 @@ features                                  :
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
+# Feature List                            Edit, add or remove features to be presented.
+features_cn                                  :
+
+  - title                                 : 文件管理
+    description                           : 管理您的本地与远程文件 - 编辑、删除、查看、分享、移动、解压
+    fontawesome_icon_name                 : folder
+    
+  - title                                 : 远程连接
+    description                           : 连接您的MAC、PC、NAS、 FTP、SMB、SFTP
+    fontawesome_icon_name                 : hdd
+
+  - title                                 : 音乐播放器
+    description                           : 漂亮的本地音乐播放器
+    fontawesome_icon_name                 : music
+
+  - title                                 : 视频播放器
+    description                           : 播放更多视频格式 - MKV、FLV、RVMB等
+    fontawesome_icon_name                 : film
+
+  - title                                 : 文本编辑器
+    description                           : 强大的文本编辑器，提供代码高亮功能
+    fontawesome_icon_name                 : font
+  
+  - title                                 : Customizeable
+    description                           : Everything you can imagine is customizeable.
+    fontawesome_icon_name                 : star
 
 # Theme Settings
 topbar_color                              : "#000000"
