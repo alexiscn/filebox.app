@@ -2,6 +2,7 @@
 layout: page
 title: Terms of Use
 include_in_header: false
+include_in_footer: true
 locale: en
 ---
 

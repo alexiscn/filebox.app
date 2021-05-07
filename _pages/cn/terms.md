@@ -2,6 +2,7 @@
 layout: page
 title: 使用条款
 include_in_header: false
+include_in_footer: true
 locale: cn
 ---
 

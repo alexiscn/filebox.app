@@ -20,8 +20,8 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Filebox                                
-your_link                                 : https://filebox.space
+your_name                                 : alex                                
+your_link                                 : https://github.com/alexiscn
 your_city                                 : Beijing                                
 email_address                             : filebox.app@outlook.com
 # facebook_username                         :                                           
@@ -99,8 +99,8 @@ features_cn                                  :
     description                           : 强大的文本编辑器，提供代码高亮功能
     fontawesome_icon_name                 : font
   
-  - title                                 : Customizeable
-    description                           : Everything you can imagine is customizeable.
+  - title                                 : 自定义
+    description                           : 任何您能想到的都可自定义
     fontawesome_icon_name                 : star
 
 # Theme Settings

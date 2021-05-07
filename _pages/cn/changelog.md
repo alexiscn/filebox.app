@@ -2,6 +2,7 @@
 layout: page
 title: 最近更新
 include_in_header: true
+include_in_footer: false
 locale: cn
 ---
 

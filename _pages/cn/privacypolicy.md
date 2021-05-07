@@ -2,6 +2,7 @@
 layout: page
 title: 隐私政策
 include_in_header: false
+include_in_footer: true
 locale: cn
 ---
 
