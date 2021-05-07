@@ -5,29 +5,29 @@ include_in_header: false
 locale: cn
 ---
 
-**Last updated**  
-May 1 2021
+**最近更新**  
+2021-05-01
 
-## Privacy Policy
+## 隐私政策
 
-Filebox is a file management app for iOS that supports music player, video player and text editor.
+Filebox是一款iOS的文件管理应用，支持音乐播放器、视频播放器和文本编辑器。
 
-This privacy policy applies to the iOS main app itself, its embedded frameworks and app extensions, and official examples we provided, but obviously not to files that you aaded yourself. 
+本隐私政策适用于iOS主应用程序本身、其嵌入式框架和应用程序扩展，以及我们提供的官方示例，但显然不适用于您自己添加的文件。
 
-**Data Collected by Filebox**
+**Filebox收集的数据**
 
-In short, the Filebox app itself does not collect any data from you. Yes, we don't do any data tracking technology for growth purpose, we don't even count how many users we have. We just want to provide a file management system, and do not care how "success" we are, or how the app is being used by users.
+简而言之，Filebox应用程序本身并不收集你的任何数据。是的，我们不做任何以增长为目的的数据跟踪技术，我们甚至不计算我们有多少用户。我们只想提供一个文件管理系统，并不关心我们有多 "成功"，或用户如何使用该应用程序。
 
-Please be confident about our service, all secrets stay on your device, we don't have control over them.
+请对我们的服务有信心，所有的秘密都留在你的设备上，我们对它们没有控制权。
 
 **Cookies**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. Filebox does not use these "cookies" explicitly.
+Cookies是含有少量数据的文件，通常作为匿名的唯一标识符使用。这些文件从您访问的网站发送到您的浏览器，并存储在您设备的内部存储器中。Filebox没有明确地使用这些 "cookies"。
 
-**Changes to This Privacy Policy**
+**本隐私政策的变更**
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+我们可能会不时地更新我们的隐私政策。因此，我们建议你定期查看本页面以了解任何变化。我们将通过在本页面上发布新的隐私政策来通知您任何变化。这些变化在本页面上公布后立即生效。
 
-**Contact Us**
+**联系我们**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at filebox.app@outlook.com .
+如果您对我们的隐私政策有任何疑问或建议，请随时联系我们：filebox.app@outlook.com 。

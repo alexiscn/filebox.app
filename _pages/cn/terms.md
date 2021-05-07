@@ -5,35 +5,35 @@ include_in_header: false
 locale: cn
 ---
 
-**Last updated**  
-May 1 2021
+**最近更新**  
+2021-05-01
 
-> This document is intended to explain or clarify the services provided by Filebox, possible subsequent changes to the terms are also subject to this document.
+> 本文件旨在解释或澄清Filebox所提供的服务，后续可能的条款变更也以本文件为准。
 
-## Terms of Service
+## 使用条款
 
-Thanks for using Filebox, your support directly sustains the development. 
+感谢您使用Filebox，您的支持直接支撑了我们的发展。
 
-**Pricing**
+**价格**
 
-Filebox's core features, such as file management, music player, video player and text editor, are free. We also offer **Filebox Pro** edition, designed to meet the needs of professional users for more customization while maintaining our development efforts.
+Filebox的核心功能，如文件管理、音乐播放器、视频播放器和文本编辑器，都是免费的。我们还提供**Filebox Pro**版，旨在满足专业用户对更多定制功能的需求，同时保持我们的开发力度。
 
-Filebox Pro offers a variety of pricing strategies to fit different situations, such as monthly subscriptions, annual subscriptions, or one-time payment for lifetime premium, with **full functionality** free trials for subscription models.
+Filebox Pro提供多种定价策略，以适应不同的情况，如按月订阅、按年订阅或一次性支付终身保费，订阅模式有**全功能的**免费试用。
 
-**Service Availability**
+**服务可用性**
 
-When you use the same Apple ID on multiple devices, please follow the device limitations mentioned in the official ["Apple Media Services Terms and Conditions"](https://www.apple.com/legal/internet-services/itunes/us/terms.html) file.
+当你在多个设备上使用同一个苹果ID时，请遵循官方["苹果媒体服务条款和条件"](https://www.apple.com/legal/internet-services/itunes/us/terms.html)文件中提到的设备限制。
 
-We reserve the right to address serious violations of these terms, including, but not limited to, removal of unlocked content.
+我们保留处理严重违反这些条款的权利，包括但不限于删除解锁的内容。
 
-**Refund**
+**退款**
 
-We are sorry to hear that you want to refund, please [contact us](mailto:filebox.app@outlook.com) for your complaints first, but we do respect your choice. However, developers are not responsible for refunds, you are encouraged to contact Apple Support Team directly, some information could be found [here](https://support.apple.com/en-us/HT204084).
+我们很抱歉听到你想退款，请先[联系我们](mailto:filebox.app@outlook.com)进行投诉，但我们尊重你的选择。然而，开发商不负责退款，我们鼓励你直接联系苹果支持团队，一些信息可以在[这里](https://support.apple.com/en-us/HT204084)找到。
 
-**Changes to This Terms of Service**
+**本使用条款的变更**
 
-We may update our Terms of Service from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms of Service on this page. These changes are effective immediately after they are posted on this page.
+我们可能会不时地更新我们的服务条款。因此，建议你定期查看本页面的任何变化。我们将通过在本页面上发布新的服务条款来通知您任何变化。这些变化在本页面上公布后立即生效。
 
-**Contact Us**
+**联系我们**
 
-If you have any questions or suggestions about our Terms of Service, please do not hesitate to contact us at filebox.app@outlook.com .
+如果您对我们的服务条款有任何疑问或建议，请随时联系我们，filebox.app@outlook.com 。
