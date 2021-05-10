@@ -10,6 +10,7 @@ locale: en
 
 ## **Version 1.0.2**
 
+- add onboarding screen
 - add home screen quick action to shuffle music
 - add transfer files via AirDrop
 - add sleep timer to music player
