@@ -6,10 +6,20 @@ include_in_footer: false
 locale: cn
 ---
 
-# Changelog
+# 最近更新
 
+## **Version 1.0.2**
+
+- 增加主屏幕上的Shortcut随机播放音乐
+- 增加通过AirDrop传输文件
+- 在音乐播放器中添加睡眠定时器
+- 设置中添加入门文档
+- 修复Markdown导出pdf页面大小问题
+- 修复视频播放器从后台返回时的方向问题
 
 ## **Version 1.0.1**
+
+发布日期：2021-05-09 (build 11)
 
 - 远程浏览文件新增更多按钮触发可进行的操作
 - 提升视频播放记录管理体验
@@ -20,4 +30,6 @@ locale: cn
 
 ## **Version 1.0.0**
 
-* initial release
+发布日期：2021-05-4 (build 10)
+
+* 初始版本

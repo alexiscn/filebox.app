@@ -8,8 +8,19 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.2**
+
+- add home screen quick action to shuffle music
+- add transfer files via AirDrop
+- add sleep timer to music player
+- add get started documents
+- fix markdown export pdf page size issue
+- fix orientation issue with video player when returned from background
+
 
 ## **Version 1.0.1**
+
+date: 2021-05-09 (build 11) 
 
 - add more icon in remote browser to trigger contextual menu
 - improve video play history managment
@@ -19,5 +30,7 @@ locale: en
 - fix airdrop cold launch files not copied issue
 
 ## **Version 1.0.0**
+
+date: 2021-05-04 (build 10) 
 
 * initial release
