@@ -10,6 +10,8 @@ locale: cn
 
 ## **Version 1.0.2**
 
+发布日期：2021-05-12 (build 15)
+
 - 增加欢迎界面
 - 增加主屏幕上的Shortcut随机播放音乐
 - 增加通过AirDrop传输文件

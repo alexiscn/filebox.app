@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.2**
 
+date: 2021-05-12 (build 15)
+
 - add onboarding screen
 - add home screen quick action to shuffle music
 - add transfer files via AirDrop
