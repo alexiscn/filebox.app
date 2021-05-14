@@ -8,6 +8,19 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.3**
+
+date: 2021-05-14 (build 16)
+
+- add download HTTP resources directly
+- now you can play previous/next video in video player when playing folders contains multiple videos
+- fix smb path issue cause can note create folder and delete files
+- optimize remote login error message
+- add website in about page
+- fix page control color issue in onboarding page
+- fix the problem that remote folders are not updated when moving files in some cases
+- fix address and protocol not saved when edit remote account
+
 ## **Version 1.0.2**
 
 date: 2021-05-12 (build 15)
