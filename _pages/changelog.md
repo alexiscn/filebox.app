@@ -8,6 +8,12 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.4**
+
+- add movie playback history progress to remote video
+- add multiple selection operations to remote files
+- fix issue with deleting folder with SFTP connection
+
 ## **Version 1.0.3**
 
 date: 2021-05-14 (build 16)
