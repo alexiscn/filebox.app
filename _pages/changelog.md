@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.4**
 
+date: 2021-05-26 (build 20)
+
 - add movie playback history progress to remote video
 - add multiple selection operations to remote files
 - fix issue with deleting folder with SFTP connection
