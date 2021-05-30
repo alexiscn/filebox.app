@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.5**
+
+- Redesign Library tab
+- Redesign now playing bar of music player
+- add context menu to file search result
+- add goto folder to file search result
+- improve music player last playlist
+
 ## **Version 1.0.4**
 
 date: 2021-05-26 (build 20)
