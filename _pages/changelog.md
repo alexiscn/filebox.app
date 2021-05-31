@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.5**
 
+date: 2021-05-31 (build 22)
+
 - Redesign Library tab
 - Redesign now playing bar of music player
 - add context menu to file search result
