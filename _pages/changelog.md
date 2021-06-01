@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.6**
+
+- Add playback list to recent played videos
+- fix issue that toolbar will overlaped by now playing bar when editing remote server files
+- fix issue that download nested folder will always failed
+- fix issue that when files removed but recent played videos not updated
+
+
 ## **Version 1.0.5**
 
 date: 2021-05-31 (build 22)
