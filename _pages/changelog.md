@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.6**
 
+date: 2021-06-03 (build 24)
+
 - Add playback list to recent played videos
 - fix issue that toolbar will overlaped by now playing bar when editing remote server files
 - fix issue that download nested folder will always failed
