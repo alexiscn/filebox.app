@@ -8,6 +8,16 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.7**
+
+- add a way to edit metadata of library recent played movies
+- add a new network share protocol: WebDAV(HTTPS)
+- fix connection issue with WebDAV server
+- fix download file issue with WebDAV and FTP connections
+- fix now playing bar music artwork not clipped issue
+- improve recent played movie title to two lines to display more information
+
+
 ## **Version 1.0.6**
 
 date: 2021-06-03 (build 24)

@@ -8,6 +8,8 @@ locale: cn
 
 # 最近更新
 
+## **Version 1.0.7**
+
 ## **Version 1.0.6**
 
 发布日期：2021-06-03 (build 24)
