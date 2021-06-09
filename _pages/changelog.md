@@ -8,7 +8,20 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.8**
+
+date: 2021-06-09 (build 26)
+
+- add rating information to movie metadata
+- add multiple selection support to add file from Files
+- fix issue that in certain scenario WebDAV can not be connected
+- fix rename file and move file issue with WebDAV connection
+- fix issue that advanced information not loaded when editing saved network share account
+- improve performance
+
 ## **Version 1.0.7**
+
+date: 2021-06-05 (build 25)
 
 - add a way to edit metadata of library recent played movies
 - add a new network share protocol: WebDAV(HTTPS)
