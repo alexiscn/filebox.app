@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.9**
+
+- redesign the UI of file information viewer
+- add image browser to remote images (WebDAV/Synology/SMB/FTP)
+- add now playing item animation in playlist
+- add information viewer to remote files
+- fix issue that invalid address may cause crash when connect with SMB connection
+- fix issue that compress file always fails
+
 ## **Version 1.0.8**
 
 date: 2021-06-09 (build 26)
