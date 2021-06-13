@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.9**
 
+date: 2021-06-13 (build 27)
+
 - redesign the UI of file information viewer
 - add image browser to remote images (WebDAV/Synology/SMB/FTP)
 - add now playing item animation in playlist
