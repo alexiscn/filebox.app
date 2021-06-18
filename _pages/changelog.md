@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.10**
 
+date: 2021-06-18 (build 28)
+
 - add movie playlist in library when they are tv series
 - improve library movie artwork load performance
 - fix issue that auto fetch metadata not working as expected
