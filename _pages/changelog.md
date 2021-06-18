@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.10**
+
+- add movie playlist in library when they are tv series
+- improve library movie artwork load performance
+- fix issue that auto fetch metadata not working as expected
+- fix issue that movies with uppercased extension can not be played
+- fix change play mode not working when playing music
+
 ## **Version 1.0.9**
 
 date: 2021-06-13 (build 27)
