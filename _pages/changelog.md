@@ -10,8 +10,6 @@ locale: en
 
 ## **Version 1.0.11**
 
-- ADDED: add upload queue to view current upload progress
-- ADDED: add multiple file selection when picker file from Files
 - ADDED: add movie playlist in movie player
 - ADDED: add more swipe actions to file
 - FIXED: fix issue that music player maybe presented twice
