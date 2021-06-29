@@ -11,7 +11,7 @@ presskit_download_link                    : https://filebox.space               
 
 app_icon                                  : assets/filebox-logo.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Filebox - Play with files                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : $0.99                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : A modern app designed for iOS and iPadOS. Offers file management, music player, video player and text editor.
 app_description_cn                        : 一款为iOS、iPadOS设计的现代化音乐，提供了文件管理、音乐播放器、视频播放器与文本编辑器
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
