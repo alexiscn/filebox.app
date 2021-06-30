@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.11**
 
+date: 2021-06-30 (build 30)
+
 - ADDED: add movie playlist in movie player
 - ADDED: add more swipe actions to file
 - FIXED: fix issue that music player maybe presented twice
