@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.12**
 
+date: 2021-07-03 (build 32)
+
 - ADDED: add now playing music bar to iPad
 - ADDED: add auto update music metadata switch toggle
 - IMPROVED: Reduce the size of app
