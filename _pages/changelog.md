@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.12**
+
+- ADDED: add now playing music bar to iPad
+- ADDED: add auto update music metadata switch toggle
+- IMPROVED: Reduce the size of app
+- FIXED: fix issue that compressed file can not be decompressed for the second time
+- FIXED: fix issue that folder cannot be compressed
+
 ## **Version 1.0.11**
 
 date: 2021-06-30 (build 30)
