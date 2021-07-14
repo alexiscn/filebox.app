@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.13**
+
+- ADDED: add delete file action to movie player
+- IMPROVED: remember last expand or collapse behavior of saved accounts and favorited folders
+- IMPROVED: improve reveval search result
+- FIXED: fix issue that can not search song when music player is not playing
+- FIXED: fix crash when using guest mode to connect to SMB server
+
 ## **Version 1.0.12**
 
 date: 2021-07-03 (build 32)
