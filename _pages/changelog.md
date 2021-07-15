@@ -11,6 +11,7 @@ locale: en
 ## **Version 1.0.13**
 
 - ADDED: add delete file action to movie player
+- ADDED: add remote music file playback support
 - IMPROVED: remember last expand or collapse behavior of saved accounts and favorited folders
 - IMPROVED: improve reveval search result
 - FIXED: fix issue that can not search song when music player is not playing
