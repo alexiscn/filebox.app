@@ -15,6 +15,8 @@ locale: en
 - IMPROVED: improve reveval search result
 - FIXED: fix issue that can not search song when music player is not playing
 - FIXED: fix crash when using guest mode to connect to SMB server
+- FIXED: fix crash when taking snapshot of a video but current player does not has a video output
+- FIXED: fix issue that connect without username and password using WebDAV may cause crash
 - FIXED: fix connecting issue with FTP
 
 ## **Version 1.0.12**
