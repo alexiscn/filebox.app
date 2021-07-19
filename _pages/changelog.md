@@ -15,7 +15,6 @@ locale: en
 - ADDED: add flac music file format support
 - ADDED: add webm video file format support
 - FIXED: fix connection issue with Synology which enables 2-Step verification
-- FIXED: fix issue that music player will stopped playing when music file was deleted
 
 ## **Version 1.0.13**
 
