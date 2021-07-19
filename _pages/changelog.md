@@ -8,7 +8,18 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.14**
+
+- ADDED: add subtitle abilities to video player
+- ADDED: add file sort menu to remote files
+- ADDED: add flac music file format support
+- ADDED: add webm video file format support
+- FIXED: fix connection issue with Synology which enables 2-Step verification
+- FIXED: fix issue that music player will stopped playing when music file was deleted
+
 ## **Version 1.0.13**
+
+date: 2021-07-16 (build 33)
 
 - ADDED: add delete file action to movie player
 - ADDED: add remote music file playback support
