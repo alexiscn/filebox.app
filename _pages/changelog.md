@@ -10,6 +10,7 @@ locale: en
 
 ## **Version 1.0.14**
 
+- ADDED: add NFS remote protocol support
 - ADDED: add subtitle abilities to video player
 - ADDED: add file sort menu to remote files
 - ADDED: add flac music file format support
