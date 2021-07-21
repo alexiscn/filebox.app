@@ -13,8 +13,8 @@ locale: en
 - ADDED: add NFS remote protocol support
 - ADDED: add subtitle abilities to video player
 - ADDED: add file sort menu to remote files
-- ADDED: add flac music file format support
-- ADDED: add webm video file format support
+- ADDED: add flac and caf audio file format support
+- ADDED: add webm and ogg video file format support
 - FIXED: fix connection issue with Synology which enables 2-Step verification
 
 ## **Version 1.0.13**
