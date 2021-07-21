@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.14**
 
+date: 2021-07-22 (build 34)
+
 - ADDED: add NFS remote protocol support
 - ADDED: add subtitle abilities to video player
 - ADDED: add file sort menu to remote files
