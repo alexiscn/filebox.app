@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+
+## **Version 1.0.15**
+
+- ADDED: add option to select audio track in video player
+- ADDED: add option to turn off auto save video playback history
+- FIXED: fix issue that remote audio file
+- FIXED: fix issue that remember video play history not working at iPad
+
 ## **Version 1.0.14**
 
 date: 2021-07-22 (build 34)
