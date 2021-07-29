@@ -11,6 +11,8 @@ locale: en
 
 ## **Version 1.0.15**
 
+date: 2021-07-30 (build 35)
+
 - ADDED: add option to select audio track in video player
 - ADDED: add option to turn off auto save video playback history
 - FIXED: fix issue that remote audio file
