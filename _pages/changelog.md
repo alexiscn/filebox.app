@@ -8,6 +8,10 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.16**
+
+- ADDED: add OneDrive support
+- ADDED: add local photo browser
 
 ## **Version 1.0.15**
 
