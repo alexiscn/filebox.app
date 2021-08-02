@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.16**
 
+date: 2021-08-02 (build 36)
+
 - ADDED: add OneDrive support
 - ADDED: add local photo browser
 
