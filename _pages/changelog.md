@@ -8,6 +8,11 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.17**
+
+- ADDED: add Dropbox support
+- FIXED: fix issue that recent movie title wrong with OneDrive
+
 ## **Version 1.0.16**
 
 date: 2021-08-02 (build 36)
