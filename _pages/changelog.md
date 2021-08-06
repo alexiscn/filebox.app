@@ -8,7 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.18**
+
+- ADDED: add Box support
+- ADDED: add Google Drive support
+
 ## **Version 1.0.17**
+
+date: 2021-08-06 (build 37)
 
 - ADDED: add Dropbox support
 - FIXED: fix issue that recent movie title wrong with OneDrive

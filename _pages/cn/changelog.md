@@ -8,7 +8,14 @@ locale: cn
 
 # 最近更新
 
+## **Version 1.0.18**
+
+- 新增: 新增Box网盘支持
+- 新增: 新增Google Drive支持
+
 ## **Version 1.0.17**
+
+发布日期：2021-08-06 (build 37)
 
 - 新增: 新增Dropbox支持
 - 新增: 新增启用歌词开关
