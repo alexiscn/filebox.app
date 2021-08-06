@@ -12,6 +12,7 @@ locale: en
 
 - ADDED: add Box support
 - ADDED: add Google Drive support
+- FIXED: fix move file not working with Cloud services
 
 ## **Version 1.0.17**
 

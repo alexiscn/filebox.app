@@ -12,6 +12,7 @@ locale: cn
 
 - 新增: 新增Box网盘支持
 - 新增: 新增Google Drive支持
+- 修正: 修正云端服务无法移动文件的问题
 
 ## **Version 1.0.17**
 
