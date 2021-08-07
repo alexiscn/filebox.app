@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.18**
 
+date: 2021-08-08 (build 38)
+
 - ADDED: add Box support
 - ADDED: add Google Drive support
 - ADDED: add photo browser to OneDrive and Dropbox

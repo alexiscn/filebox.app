@@ -10,6 +10,8 @@ locale: cn
 
 ## **Version 1.0.18**
 
+发布日期：2021-08-08 (build 38)
+
 - 新增: 新增Box网盘支持
 - 新增: 新增Google Drive支持
 - 新增: OneDrive 与 Dropbox 增加图片浏览器
