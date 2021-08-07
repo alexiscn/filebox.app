@@ -12,7 +12,9 @@ locale: en
 
 - ADDED: add Box support
 - ADDED: add Google Drive support
-- FIXED: fix move file not working with Cloud services
+- ADDED: add photo browser to OneDrive and Dropbox
+- IMPROVED: Hide video controls when swipe to forward and backward
+- FIXED: fix some folder could not list files with OneDrive connection
 
 ## **Version 1.0.17**
 
