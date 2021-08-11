@@ -11,6 +11,7 @@ locale: en
 ## **Version 1.0.19**
 
 - ADDED: add BaiduPan support
+- ADDED: add ability to preview local HTML files
 - FIXED: fix issue that move remote files only moves the first file
 
 ## **Version 1.0.18**
