@@ -8,6 +8,11 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.19**
+
+- ADDED: add BaiduPan support
+- FIXED: fix issue that move remote files only moves the first file
+
 ## **Version 1.0.18**
 
 date: 2021-08-08 (build 38)
