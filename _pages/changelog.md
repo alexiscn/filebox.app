@@ -10,11 +10,11 @@ locale: en
 
 ## **Version 1.0.19**
 
-- ADDED: add BaiduPan support
 - ADDED: add ability to preview local HTML files
 - IMPROVED: connect with SMB that address contains share name now automatically connects the specified share
 - FIXED: fix issue that move remote files only moves the first file
 - FIXED: fix issue that playing ts format video get duration wrong
+- FIXED: fix issue that can not play video with some SMB connection
 
 ## **Version 1.0.18**
 
