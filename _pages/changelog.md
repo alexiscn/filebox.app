@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.19**
 
+date: 2021-08-14 (build 39)
+
 - ADDED: add ability to preview local HTML files
 - IMPROVED: connect with SMB that address contains share name now automatically connects the specified share
 - FIXED: fix issue that move remote files only moves the first file
