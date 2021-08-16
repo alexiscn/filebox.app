@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.20**
+
+- ADDED: add upload context menu to local files
+- IMPROVED: improve search subtitle experience
+- FIXED: fix issue that remote connect account maybe saved twice
+- FIXED: fix issue that connect to server that does not have a nfs server will be crashed
+
 ## **Version 1.0.19**
 
 date: 2021-08-14 (build 39)
