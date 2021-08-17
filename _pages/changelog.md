@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.20**
 
+date: 2021-08-17 (build 40)
+
 - ADDED: add upload context menu to local files
 - IMPROVED: improve search subtitle experience
 - FIXED: fix issue that remote connect account maybe saved twice
