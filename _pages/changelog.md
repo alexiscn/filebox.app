@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.21**
+
+- ADDED: add Baidu Pan support
+- ADDED: add pCloud support
+- ADDED: add long press folder to shuffle
+- ADDED: add batch upload files and folders
+- FIXED: fix issue that load subtitle from remote server can only load subtitle within root folder
+
 ## **Version 1.0.20**
 
 date: 2021-08-17 (build 40)
