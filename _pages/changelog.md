@@ -15,6 +15,7 @@ locale: en
 - ADDED: add long press folder to shuffle
 - ADDED: add batch upload files and folders
 - FIXED: fix issue that load subtitle from remote server can only load subtitle within root folder
+- FIXED: fix issue that remember video play history switch does not work
 
 ## **Version 1.0.20**
 
