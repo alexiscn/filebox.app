@@ -14,6 +14,7 @@ locale: en
 - ADDED: add pCloud support
 - ADDED: add long press folder to shuffle
 - ADDED: add batch upload files and folders
+- IMPROVED: improve video player adjust volume experience
 - FIXED: fix issue that load subtitle from remote server can only load subtitle within root folder
 - FIXED: fix issue that remember video play history switch does not work
 
