@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.21**
 
+date: 2021-08-23 (build 41)
+
 - ADDED: add Baidu Pan support
 - ADDED: add pCloud support
 - ADDED: add long press folder to shuffle
