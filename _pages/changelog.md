@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.22**
+
+coming soon
+
+- ADDED: add import videos and photos from Photos app
+- ADDED: add WMV video format support
+- IMPROVED: improve favorite folders from cloud service 
+
 ## **Version 1.0.21**
 
 date: 2021-08-23 (build 41)
