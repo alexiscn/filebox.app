@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.0.22**
 
-coming soon
+date: 2021-08-26 (build 42)
 
 - ADDED: add import videos and photos from Photos app
 - ADDED: add WMV video format support
