@@ -8,6 +8,14 @@ locale: cn
 
 # 最近更新
 
+## **Version 1.0.23**
+
+coming soon
+
+- 新增: 云端服务新增下拉刷新
+- 修正: 修正OneDrive无法加载目录的问题
+- 修正: 
+
 ## **Version 1.0.22**
 
 发布日期：2021-08-26 (build 42)

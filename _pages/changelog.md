@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.23**
+
+coming soon
+
+- ADDED: add pull to refresh to cloud service
+- FIXED: fix OneDrive can not be connected issue
+- FIXED: 
+
+
 ## **Version 1.0.22**
 
 date: 2021-08-26 (build 42)
