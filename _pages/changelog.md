@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.0.23**
 
-coming soon
+date: 2021-09-01 (build 43)
 
 - ADDED: add pull to refresh to cloud service
 - IMPROVED: remember collapsed setting of connection entry
