@@ -13,9 +13,8 @@ locale: en
 coming soon
 
 - ADDED: add pull to refresh to cloud service
-- FIXED: fix OneDrive can not be connected issue
-- FIXED: 
-
+- IMPROVED: remember collapsed setting of connection entry
+- FIXED: fix issue that OneDrive can not list folder
 
 ## **Version 1.0.22**
 
