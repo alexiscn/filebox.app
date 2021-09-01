@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.24**
+
+developing
+
+- ADDED: add MEGA support
+- IMPROVED: optimze sort filename with number
+
 ## **Version 1.0.23**
 
 date: 2021-09-01 (build 43)
