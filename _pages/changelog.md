@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.0.24**
 
-developing
+date: 2021-09-03 (build 45)
 
 - ADDED: add MEGA support
 - IMPROVED: optimze sort filename with number
