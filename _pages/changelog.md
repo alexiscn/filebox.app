@@ -13,7 +13,8 @@ locale: en
 developing
 
 - ADDED: add MEGA support
-- IMPROVED: optimze sort filename with number
+- IMPROVED: optimze filename order
+- FIXED: fix brightness view does not show while adjust screen brightness
 
 ## **Version 1.0.23**
 
