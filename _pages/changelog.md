@@ -8,6 +8,17 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.0**
+
+Developing
+
+- ADDED: add keybobard control for iPad when playing video
+- ADDED: remember last side bar selection for iPad
+- FIXED: fix issue that pull down to refresh arrow shown behind navigation bar
+- FIXED: fix issue that subtitle shown in search scopes
+- FIXED: fix issue that cloud not upload file with WebDAC connection
+- FIXED: fix issue that duration always been zero when playing video from pCloud
+
 ## **Version 1.0.24**
 
 date: 2021-09-03 (build 45)
