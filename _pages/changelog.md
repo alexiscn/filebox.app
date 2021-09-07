@@ -13,11 +13,13 @@ locale: en
 Developing
 
 - ADDED: add auto discover network share services
+- ADDED: add search files to remote server
+- ADDED: add Emby media server support
 - ADDED: add keybobard control for iPad when playing video
 - ADDED: remember last side bar selection for iPad
 - FIXED: fix issue that pull down to refresh arrow shown behind navigation bar
 - FIXED: fix issue that subtitle shown in search scopes
-- FIXED: fix issue that cloud not upload file with WebDAC connection
+- FIXED: fix issue that can not upload file with WebDAC connection
 - FIXED: fix issue that duration always been zero when playing video from pCloud
 
 ## **Version 1.0.24**
