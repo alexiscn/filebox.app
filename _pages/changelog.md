@@ -21,6 +21,7 @@ Developing
 - FIXED: fix issue that subtitle shown in search scopes
 - FIXED: fix issue that can not upload file with WebDAC connection
 - FIXED: fix issue that duration always been zero when playing video from pCloud
+- FIXED: fix list some folder issue with FTP connection
 
 ## **Version 1.0.24**
 
