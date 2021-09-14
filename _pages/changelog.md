@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.1.0**
 
-Developing
+date: 2021-09-14 (build 47)
 
 - ADDED: add auto discover network share services
 - ADDED: add search files to remote server
