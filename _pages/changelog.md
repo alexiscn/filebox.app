@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.1**
+
+Developing
+
+- ADDED: add preview remote text files
+- ADDED: add upload file support to BaiduPan
+- FIXED: fix issue that favorites folder may not be canceled
+- FIXED: fix download issue with BaiduPan and Dropbox 
+
 ## **Version 1.1.0**
 
 date: 2021-09-14 (build 47)
