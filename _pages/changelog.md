@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.1.1**
 
-Developing
+date: 2021-09-17 (build 48)
 
 - ADDED: add preview remote text files
 - ADDED: add upload file support to BaiduPan
