@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.2**
+
+Developing...
+
+- ADDED: add emby support
+- FIXED: fix issue that copy to Filebox not working
+
 ## **Version 1.1.1**
 
 date: 2021-09-17 (build 48)
