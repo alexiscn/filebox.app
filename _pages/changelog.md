@@ -10,10 +10,12 @@ locale: en
 
 ## **Version 1.1.2**
 
-Developing...
+date: 2021-09-17 (build 50)
 
-- ADDED: add emby support
 - FIXED: fix issue that copy to Filebox not working
+- FIXED: Fix issue that video cannot be played with SMB connected through discovery
+- FIXED: fix issue that the error "Socket is not connected" may appear for SMB connection
+- FIXED: fix crash issue with non-exist nfs server
 
 ## **Version 1.1.1**
 
