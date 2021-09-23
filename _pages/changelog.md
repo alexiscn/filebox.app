@@ -8,6 +8,12 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.3**
+
+Developing...
+
+- FIXED: fix issue that load non-image files when browsing local images
+
 ## **Version 1.1.2**
 
 date: 2021-09-17 (build 50)
