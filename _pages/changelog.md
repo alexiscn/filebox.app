@@ -12,11 +12,12 @@ locale: en
 
 Developing...
 
+- ADDED: add upload queue and large file upload support
 - FIXED: fix issue that load non-image files when browsing local images
 
 ## **Version 1.1.2**
 
-date: 2021-09-17 (build 50)
+date: 2021-09-19 (build 50)
 
 - FIXED: fix issue that copy to Filebox not working
 - FIXED: Fix issue that video cannot be played with SMB connected through discovery
