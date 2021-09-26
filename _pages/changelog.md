@@ -14,6 +14,7 @@ Developing...
 
 - ADDED: add upload queue and large file upload support
 - FIXED: fix issue that load non-image files when browsing local images
+- FIXED: fix issue that the video of WebDAV(HTTPS) can not be played under LAN
 
 ## **Version 1.1.2**
 
