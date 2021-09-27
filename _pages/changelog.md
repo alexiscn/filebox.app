@@ -10,11 +10,10 @@ locale: en
 
 ## **Version 1.1.3**
 
-Developing...
-
-- ADDED: add upload queue and large file upload support
+- ADDED: add upload queue 
+- ADDED: add large file upload support
 - FIXED: fix issue that load non-image files when browsing local images
-- FIXED: fix issue that the video of WebDAV(HTTPS) can not be played under LAN
+- FIXED: fix issue that audio and video files of WebDAV(HTTPS) can not be played under LAN
 - FIXED: fix issue that remove file/folder not working with NFS
 
 ## **Version 1.1.2**
