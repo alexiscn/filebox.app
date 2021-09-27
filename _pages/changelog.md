@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.3**
 
+date: 2021-09-27 (build 52)
+
 - ADDED: add upload queue 
 - ADDED: add large file upload support
 - FIXED: fix issue that load non-image files when browsing local images
