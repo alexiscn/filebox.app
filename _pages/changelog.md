@@ -8,6 +8,10 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.4**
+
+- FIXED: fix crash issue with iOS 14
+
 ## **Version 1.1.3**
 
 date: 2021-09-27 (build 52)
