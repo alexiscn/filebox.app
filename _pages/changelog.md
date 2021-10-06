@@ -8,6 +8,16 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.5**
+
+Developing...
+
+- ADDED: add a switch for whether to pop up the player in the music player
+- ADDED: add thumbnail switch to video, audio and image files
+- FIXED: fix issue incorrect display of play button status after switching videos
+- FIXED: fix issue that the video player did not load the progress after switching videos
+
+
 ## **Version 1.1.4**
 
 - FIXED: fix crash issue with iOS 14
