@@ -10,8 +10,9 @@ locale: en
 
 ## **Version 1.1.5**
 
-Developing...
+date: 2021-10-06 (build 54)
 
+- ADDED: add app lock
 - ADDED: add a switch for whether to pop up the player in the music player
 - ADDED: add thumbnail switch to video, audio and image files
 - FIXED: fix issue incorrect display of play button status after switching videos
@@ -19,6 +20,8 @@ Developing...
 
 
 ## **Version 1.1.4**
+
+date: 2021-09-28 (build 53)
 
 - FIXED: fix crash issue with iOS 14
 
