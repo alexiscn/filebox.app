@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.6**
+
+Developing...
+
+- ADDED: add thumbnail for cloud service
+- FIXED: fix issue that delete video from video player does not clear playback history
+
 ## **Version 1.1.5**
 
 date: 2021-10-06 (build 54)
