@@ -13,6 +13,7 @@ locale: en
 Developing...
 
 - ADDED: add thumbnail for cloud service
+- ADDED: add thumbnail support for Text and PDF files
 - FIXED: fix issue that delete video from video player does not clear playback history
 
 ## **Version 1.1.5**
