@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.6**
 
+date: 2021-10-10 (build 56)
+
 - ADDED: add grid mode to remote browser
 - ADDED: add thumbnail for cloud service
 - ADDED: add thumbnail support for Text and PDF files
