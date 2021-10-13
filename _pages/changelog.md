@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.7**
+
+Developing...
+
+- IMPROVED: improve performance of playing large amounts music
+- FIXED: fix issue that shuffle folder not working
+
 ## **Version 1.1.6**
 
 date: 2021-10-10 (build 56)
