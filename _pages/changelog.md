@@ -10,10 +10,11 @@ locale: en
 
 ## **Version 1.1.7**
 
-Developing...
-
+- ADDED: add server type indicator to recent history
 - IMPROVED: improve performance of playing large amounts music
 - FIXED: fix issue that shuffle folder not working
+- FIXED: fix thumbnail load issue with Dropbpx
+- FIXED: fix title display issue with remote grid mode
 
 ## **Version 1.1.6**
 
