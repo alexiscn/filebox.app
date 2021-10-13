@@ -8,6 +8,12 @@ locale: cn
 
 # 最近更新
 
+## **Version 1.1.8**
+
+开发中...
+
+- 修正: 修正OneDrive token失效后列表加载失败的问题
+
 ## **Version 1.1.7**
 
 发布日期：2021-10-13 (build 57)

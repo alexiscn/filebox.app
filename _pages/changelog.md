@@ -8,6 +8,12 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.8**
+
+Developing...
+
+- FIXED: fix issue that access token of OneDrive expires not correctly handled
+
 ## **Version 1.1.7**
 
 date: 2021-10-13 (build 57)
