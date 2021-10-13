@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.7**
 
+date: 2021-10-13 (build 57)
+
 - ADDED: add server type indicator to recent history
 - IMPROVED: improve performance of playing large amounts music
 - FIXED: fix issue that shuffle folder not working
