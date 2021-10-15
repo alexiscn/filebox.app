@@ -12,6 +12,8 @@ locale: en
 
 Developing...
 
+- IMPROVED: improve access to select audio track in video player
+- IMPROVED: improve access to select subtitle in video player
 - FIXED: fix issue that access token of OneDrive expires not correctly handled
 - FIXED: fix issue that artwork cloud not automatically updated when metadata is missing
 - FIXED: fix issue that video streamed from AliyunDrive cloud not resumed from playback history
