@@ -10,13 +10,14 @@ locale: en
 
 ## **Version 1.1.8**
 
-Developing...
+date: 2021-10-17 (build 58)
 
 - IMPROVED: improve access to select audio track in video player
 - IMPROVED: improve access to select subtitle in video player
 - FIXED: fix issue that access token of OneDrive expires not correctly handled
 - FIXED: fix issue that artwork cloud not automatically updated when metadata is missing
 - FIXED: fix issue that video streamed from AliyunDrive cloud not resumed from playback history
+- FIXED: fix issue that recent history not removed when the source file deleted from remote server
 
 ## **Version 1.1.7**
 
