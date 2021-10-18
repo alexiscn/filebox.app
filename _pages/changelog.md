@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.9**
+
+Developing...
+
+- ADDED: add lyrics editor
+- FIXED: fix issue that ID3 information not updated immediately
+- FIXED: fix occasional crash when closing movie player
+
 ## **Version 1.1.8**
 
 date: 2021-10-17 (build 58)
