@@ -10,11 +10,10 @@ locale: en
 
 ## **Version 1.1.9**
 
-Developing...
-
 - ADDED: add lyrics editor
 - FIXED: fix issue that ID3 information not updated immediately
 - FIXED: fix occasional crash when closing movie player
+- FIXED: fix crash that playing a movie with AutoRotate switch turned off
 
 ## **Version 1.1.8**
 
