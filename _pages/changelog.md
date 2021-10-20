@@ -8,7 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.10**
+
+- ADDED: add icon size picker to files
+- FIXED: fix issue that share action always shown in photo browser
+
 ## **Version 1.1.9**
+
+date: 2021-10-20 (build 59)
 
 - ADDED: add lyrics editor
 - FIXED: fix issue that ID3 information not updated immediately
