@@ -12,6 +12,7 @@ locale: en
 
 - ADDED: add icon size picker to files
 - FIXED: fix issue that share action always shown in photo browser
+- FIXED: fix issue that can not turn off app lock when FaceID is enabled
 
 ## **Version 1.1.9**
 
