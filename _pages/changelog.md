@@ -14,6 +14,7 @@ locale: en
 - FIXED: fix issue that share action always shown in photo browser
 - FIXED: fix issue that can not turn off app lock when FaceID is enabled
 - FIXED: fix issue that when app lock enabled, presented view will be dismissed when come back from background
+- FIXED: fix issue that progress of recent movie not updated
 
 ## **Version 1.1.9**
 
