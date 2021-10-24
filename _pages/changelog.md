@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.11**
+
+Developing
+
+- ADDED: add picture in picture support for local video files
+- ADDED: add emby support
+- FIXED: fix issue that some video files can not be played
+
 ## **Version 1.1.10**
 
 date: 2021-10-23 (build 60)
