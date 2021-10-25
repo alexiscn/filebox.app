@@ -14,7 +14,9 @@ Developing
 
 - ADDED: add picture in picture support for local video files
 - ADDED: add emby support
+- IMPROVED: improve user experience of moving remote files
 - FIXED: fix issue that some video files can not be played
+- FIXED: fix issue that progress of remote video not updated when play video from remote list
 
 ## **Version 1.1.10**
 
