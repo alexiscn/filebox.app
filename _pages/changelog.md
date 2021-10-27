@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.11**
 
+date: 2021-10-27 (build 61)
+
 - ADDED: add picture in picture support for local video files
 - IMPROVED: improve user experience of moving remote files
 - FIXED: fix issue that some video files can not be played
