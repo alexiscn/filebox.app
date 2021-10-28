@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.12**
+
+Developing
+
+- ADDED: add Emby support
+- ADDED: add batch rename remote files
+
 ## **Version 1.1.11**
 
 date: 2021-10-27 (build 61)
