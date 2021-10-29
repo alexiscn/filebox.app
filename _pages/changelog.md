@@ -14,6 +14,9 @@ Developing
 
 - ADDED: add Emby support
 - ADDED: add batch rename remote files
+- ADDED: add drag and drop support to local file browser
+- ADDED: add drag and drop files from other applications for upload
+- FIXED: fix issue that folder size always calculating
 
 ## **Version 1.1.11**
 
