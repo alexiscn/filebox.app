@@ -10,14 +10,12 @@ locale: en
 
 ## **Version 1.1.12**
 
-Developing
-
-- ADDED: add Emby support
-- ADDED: add batch rename remote files
+- ADDED: add batch rename
 - ADDED: add drag and drop support to local file browser
 - ADDED: add drag and drop files from other applications for upload
 - ADDED: add delete confirmation switch
 - FIXED: fix issue that folder size always calculating
+- FIXED: fix issue that upload small file to OneDrive always fails
 
 ## **Version 1.1.11**
 
