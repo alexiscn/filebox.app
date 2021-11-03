@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.13**
+
+Developing...
+
+- ADDED: add emby support
+- IMPROVED: improve view information of remote files
+- FIXED: fix issue that incorrect file content after remote file update
+
 ## **Version 1.1.12**
 
 date: 2021-11-03 (build 62)
