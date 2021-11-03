@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.12**
 
+date: 2021-11-03 (build 62)
+
 - ADDED: add batch rename
 - ADDED: add drag and drop support to local file browser
 - ADDED: add drag and drop files from other applications for upload
