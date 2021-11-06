@@ -14,10 +14,9 @@ Developing...
 
 - ADDED: add emby support
 - IMPROVED: improve view information of remote files
-- FIXED: fix issue that incorrect file content after remote file update
 - IMPROVED: improve movie playback rate up to 3.0x
+- FIXED: fix issue that incorrect file content after remote file update
 - FIXED: fix issue that batch rename will crash on iOS 14
-- FIXED: fix issue that now playing center artwork not updated when music artwork changed
 
 ## **Version 1.1.12**
 
