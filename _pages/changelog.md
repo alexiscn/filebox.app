@@ -14,7 +14,7 @@ Developing...
 
 - ADDED: add emby support
 - IMPROVED: improve view information of remote files
-- IMPROVED: improve movie playback rate up to 3.0x
+- IMPROVED: improve movie playback rate up to 4.0x
 - FIXED: fix issue that incorrect file content after remote file update
 - FIXED: fix issue that batch rename will crash on iOS 14
 
