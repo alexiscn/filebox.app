@@ -10,9 +10,8 @@ locale: en
 
 ## **Version 1.1.13**
 
-Developing...
-
 - ADDED: add emby support
+- ADDED: add video quality picker for aliyun drive in laboratory
 - IMPROVED: improve view information of remote files
 - IMPROVED: improve movie playback rate up to 4.0x
 - FIXED: fix issue that incorrect file content after remote file update
