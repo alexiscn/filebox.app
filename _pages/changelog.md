@@ -16,7 +16,9 @@ Developing
 - IMPROVED: improve experience of Emby
 - IMPROVED: cloud service now supports editing name
 - IMPROVED: add sort function to saved cloud service
+- IMPROVED: increase limit of images imported from photos
 - FIXED: fix issue that iPad keyboard left and right arrow key can not fast forward and backward
+- FIXED: fix issue that created folder is not displayed when moving files
 
 ## **Version 1.1.13**
 
