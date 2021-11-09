@@ -8,6 +8,16 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.14**
+
+Developing
+
+- ADDED: add search to Emby
+- IMPROVED: improve experience of Emby
+- IMPROVED: cloud service now supports editing name
+- IMPROVED: add sort function to saved cloud service
+- FIXED: fix issue that iPad keyboard left and right arrow key can not fast forward and backward
+
 ## **Version 1.1.13**
 
 date: 2021-11-09 (build 63)
