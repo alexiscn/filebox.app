@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.13**
 
+date: 2021-11-09 (build 63)
+
 - ADDED: add emby support
 - ADDED: add video quality picker for aliyun drive in laboratory
 - IMPROVED: improve view information of remote files
