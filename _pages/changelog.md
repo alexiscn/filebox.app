@@ -17,8 +17,11 @@ Developing
 - IMPROVED: cloud service now supports editing name
 - IMPROVED: add sort function to saved cloud service
 - IMPROVED: increase limit of images imported from photos
+- FIXED: fix issue that some video can not be played with Emby
 - FIXED: fix issue that iPad keyboard left and right arrow key can not fast forward and backward
 - FIXED: fix issue that created folder is not displayed when moving files
+- FIXED: fix issue that selected files not moved into newly created folder when moving files
+- FIXED: fix issue that video play rate not synchronized in PiP mode
 
 ## **Version 1.1.13**
 
