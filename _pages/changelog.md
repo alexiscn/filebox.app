@@ -12,7 +12,6 @@ locale: en
 
 Developing
 
-- ADDED: add search to Emby
 - IMPROVED: improve experience of Emby
 - IMPROVED: cloud service now supports editing name
 - IMPROVED: add sort function to saved cloud service
@@ -22,6 +21,7 @@ Developing
 - FIXED: fix issue that created folder is not displayed when moving files
 - FIXED: fix issue that selected files not moved into newly created folder when moving files
 - FIXED: fix issue that video play rate not synchronized in PiP mode
+- FIXED: fix issue that local music and remote music can be played at the same time
 
 ## **Version 1.1.13**
 
