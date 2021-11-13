@@ -10,11 +10,9 @@ locale: en
 
 ## **Version 1.1.14**
 
-Developing
-
+- ADDED: add long press to sort saved cloud service
 - IMPROVED: improve experience of Emby
 - IMPROVED: cloud service now supports editing name
-- IMPROVED: add sort function to saved cloud service
 - IMPROVED: increase limit of images imported from photos
 - FIXED: fix issue that some video can not be played with Emby
 - FIXED: fix issue that iPad keyboard left and right arrow key can not fast forward and backward
