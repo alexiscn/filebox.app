@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.14**
 
+date: 2021-11-14 (build 64)
+
 - ADDED: add long press to sort saved cloud service
 - IMPROVED: improve experience of Emby
 - IMPROVED: cloud service now supports editing name
