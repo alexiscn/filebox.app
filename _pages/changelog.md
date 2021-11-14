@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.15**
+
+Developing
+
+- ADDED: add search to Emby
+- FIXED: fix issue that some user may can not connect with Emby
+- FIXED: fix issue that can not load more with Emby list
+- FIXED: try to fix issue that can not play video with some SMB connection
+
 ## **Version 1.1.14**
 
 date: 2021-11-14 (build 64)
