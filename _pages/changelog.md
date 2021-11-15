@@ -16,6 +16,8 @@ Developing
 - FIXED: fix issue that some user may can not connect with Emby
 - FIXED: fix issue that can not load more with Emby list
 - FIXED: try to fix issue that can not play video with some SMB connection
+- FIXED: fix issue that icon of saved account not display correctly in iPad
+- FIXED: fix issue that edited name of cloud service will be reset
 
 ## **Version 1.1.14**
 
