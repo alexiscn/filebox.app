@@ -12,6 +12,7 @@ locale: en
 
 Developing
 
+- ADDED: add Google Team Drive support
 - ADDED: add search to Emby
 - ADDED: add progress bar to unzip
 - IMPROVED: improve Emby experience
