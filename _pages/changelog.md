@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.15**
 
+date: 2021-11-18 (build 70)
+
 - ADDED: add Google Team Drive support
 - ADDED: add search to Emby
 - IMPROVED: improve Emby experience
