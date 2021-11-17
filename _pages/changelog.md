@@ -10,13 +10,9 @@ locale: en
 
 ## **Version 1.1.15**
 
-Developing
-
 - ADDED: add Google Team Drive support
 - ADDED: add search to Emby
-- ADDED: add progress bar to unzip
 - IMPROVED: improve Emby experience
-- IMPROVED: download and upload progress can be dragged
 - FIXED: fix issue that some user may can not connect with Emby
 - FIXED: fix issue that can not load more with Emby list
 - FIXED: try to fix issue that can not play video with some SMB connection
