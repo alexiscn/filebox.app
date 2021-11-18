@@ -19,6 +19,7 @@ Developing...
 - ADDED: add function that md5, sha1, sha256 can be copied by clicking on the file profile
 - IMPROVED: improve experience of emby player
 - FIXED: fix issue that video from AliyunDrive can not be played in some cases
+- FIXED: fix issue that upload file to AliyunDrive may failed
 
 ## **Version 1.1.15**
 
