@@ -16,6 +16,7 @@ Developing...
 - ADDED: add m4v video format support
 - ADDED: add support to play shortcut videos for Google Drive
 - ADDED: add a switch for whether to automatically find available services
+- ADDED: add function that md5, sha1, sha256 can be copied by clicking on the file profile
 - IMPROVED: improve experience of emby player
 - FIXED: fix issue that video from AliyunDrive can not be played in some cases
 
