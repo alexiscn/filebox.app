@@ -14,7 +14,10 @@ Developing...
 
 - ADDED: add subtitle font picker to movie player
 - ADDED: add m4v video format support
+- ADDED: add support to play shortcut videos for Google Drive
+- ADDED: add a switch for whether to automatically find available services
 - IMPROVED: improve experience of emby player
+- FIXED: fix issue that video from AliyunDrive can not be played in some cases
 
 ## **Version 1.1.15**
 
