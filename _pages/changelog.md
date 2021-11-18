@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.16**
+
+Developing...
+
+- ADDED: add subtitle font picker to movie player
+- ADDED: add m4v video format support
+- IMPROVED: improve experience of emby player
+
 ## **Version 1.1.15**
 
 date: 2021-11-18 (build 70)
