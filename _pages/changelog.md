@@ -14,7 +14,7 @@ Developing...
 
 - ADDED: add subtitle font picker to movie player
 - ADDED: add aspect ratio picker to movie player
-- ADDED: add m4v video format support
+- ADDED: add m4v/m2ts video format support
 - ADDED: add m4b audio format support
 - ADDED: add support to play shortcut videos for Google Drive
 - ADDED: add a switch for whether to automatically find available services
