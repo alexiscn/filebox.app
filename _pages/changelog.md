@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.17**
+
+Developing...
+
+- ADDED: Emby video/audio/subtitle selection
+- ADDED: Player new press-and-hold speed playback
+- FIXED: Fix Emby play record not sync server issue
+
 ## **Version 1.1.16**
 
 - ADDED: add subtitle font picker to movie player
