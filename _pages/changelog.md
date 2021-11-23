@@ -10,8 +10,6 @@ locale: en
 
 ## **Version 1.1.16**
 
-Developing...
-
 - ADDED: add subtitle font picker to movie player
 - ADDED: add aspect ratio picker to movie player
 - ADDED: add m4v/m2ts video format support
@@ -19,10 +17,7 @@ Developing...
 - ADDED: add support to play shortcut videos for Google Drive
 - ADDED: add a switch for whether to automatically find available services
 - ADDED: add function that md5, sha1, sha256 can be copied by clicking on the file profile
-- ADDED: add play origin video to AliyunDrive
-- IMPROVED: improve experience of emby player
-- FIXED: fix issue that video from AliyunDrive can not be played in some cases
-- FIXED: fix issue that upload file to AliyunDrive may failed
+- IMPROVED: improve experience of emby
 - FIXED: fix issue that Google Drive file list is not fully displayed
 - FIXED: fix issue that imported photos always store in root folder
 
