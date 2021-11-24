@@ -8,16 +8,9 @@ locale: en
 
 # Changelog
 
-## **Version 1.1.17**
-
-Developing...
-
-- ADDED: Emby video/audio/subtitle selection
-- ADDED: Player new press-and-hold speed playback
-- FIXED: Fix Emby play record not sync server issue
-
 ## **Version 1.1.16**
 
+- ADDED: Player new press-and-hold speed playback
 - ADDED: add subtitle font picker to movie player
 - ADDED: add aspect ratio picker to movie player
 - ADDED: add m4v/m2ts video format support
@@ -25,9 +18,11 @@ Developing...
 - ADDED: add support to play shortcut videos for Google Drive
 - ADDED: add a switch for whether to automatically find available services
 - ADDED: add function that md5, sha1, sha256 can be copied by clicking on the file profile
+- ADDED: Emby video/audio/subtitle selection
 - IMPROVED: improve experience of emby
 - FIXED: fix issue that Google Drive file list is not fully displayed
 - FIXED: fix issue that imported photos always store in root folder
+- FIXED: Fix Emby play record not sync server issue
 
 ## **Version 1.1.15**
 
