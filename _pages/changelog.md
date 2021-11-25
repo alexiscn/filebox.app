@@ -18,11 +18,12 @@ locale: en
 - ADDED: add support to play shortcut videos for Google Drive
 - ADDED: add a switch for whether to automatically find available services
 - ADDED: add function that md5, sha1, sha256 can be copied by clicking on the file profile
-- ADDED: Emby video/audio/subtitle selection
+- ADDED: add Emby video/audio/subtitle selection
 - IMPROVED: improve experience of emby
 - FIXED: fix issue that Google Drive file list is not fully displayed
 - FIXED: fix issue that imported photos always store in root folder
-- FIXED: Fix Emby play record not sync server issue
+- FIXED: fix Emby play record not sync server issue
+- FIXED: fix issue that SFTP cannot connect with port other than 22
 
 ## **Version 1.1.15**
 
