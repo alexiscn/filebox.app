@@ -15,6 +15,7 @@ locale: en
 - ADDED: add aspect ratio picker to movie player
 - ADDED: add m4v/m2ts video format support
 - ADDED: add m4b audio format support
+- ADDED: add heic image format support
 - ADDED: add support to play shortcut videos for Google Drive
 - ADDED: add a switch for whether to automatically find available services
 - ADDED: add function that md5, sha1, sha256 can be copied by clicking on the file profile
