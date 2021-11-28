@@ -8,7 +8,16 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.17 **
+
+Developing...
+
+- ADDED: add support for OneDrive for Bussiness
+- IMPROVED: improve user experience of emby
+
 ## **Version 1.1.16**
+
+date: 2021-11-28 (build 82)
 
 - ADDED: Player new press-and-hold speed playback
 - ADDED: add subtitle font picker to movie player
