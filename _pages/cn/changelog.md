@@ -12,6 +12,8 @@ locale: cn
 
 开发中...
 
+- 新增: 播放器 - 新增当前时间展示
+- 新增: 文件 - 新增 FLV 视频格式支持
 - 新增: 新增 OneDrive for Business 支持
 - 新增: Emby 详情页面增加收藏功能
 - 新增: Emby 新增排序功能

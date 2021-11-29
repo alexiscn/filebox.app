@@ -12,6 +12,8 @@ locale: en
 
 Developing...
 
+- ADDED: movie player - add current time display
+- ADDED: files - add FLV video format support
 - ADDED: add support for OneDrive for Bussiness
 - ADDED: add favorite button to emby item profile page
 - ADDED: add sort to emby list
