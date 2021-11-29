@@ -3,7 +3,7 @@ layout: page
 title: 常见问题
 include_in_header: true
 include_in_footer: false
-locale: cn
+locale: en
 ---
 
 
