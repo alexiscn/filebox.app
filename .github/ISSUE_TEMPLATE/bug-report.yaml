@@ -1,0 +1,73 @@
+name: 提交BUG回报
+description: 在使用 Filebox 的过程中遇到了错误
+title: '[Bug]: '
+labels: [ "bug?" ]
+
+body:
+  # User's README and agreement
+  - type: markdown
+    attributes:
+      value: |
+        ## 感谢您愿意填写错误回报！
+        ## 请您先提交ISSUE前阅读常见问题. (常见问题: https://filebox.space/faq/)
+        ---
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: 请确保您已阅读以上注意事项，并勾选下方的确认框。
+      options:
+        - label: "我已经仔细阅读上述常见问题列表 [\"常见问题\"](https://filebox.space/faq/)"
+          required: true
+        - label: 我已确认没有相同问题的ISSUE已被提出。
+          required: true
+
+  # User's data
+  - type: markdown
+    attributes:
+      value: |
+        ## 环境信息
+        请根据实际使用环境填写以下信息。
+
+  # Input | Version
+  - type: textarea
+    id: version
+    attributes:
+      label: 使用的Filebox版本
+      description: |
+        您使用的Filebox版本是什么？
+        您可在设置-关于我们找到对应版本号
+    validations:
+      required: true
+
+  # Input | Reproduce
+  - type: textarea
+    id: reproduce-steps
+    attributes:
+      label: 重现步骤
+      description: |
+        我们需要执行哪些操作才能让 bug 出现？
+        简洁清晰的重现步骤能够帮助我们更迅速地定位问题所在。
+    validations:
+      required: true
+
+  # Input | Expected result
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望的结果是什么？
+    validations:
+      required: true
+
+  # Input | Actual result
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际的结果是什么？
+    validations:
+      required: true
+
+  # Optional | Extra description
+  - type: textarea
+    id: extra-desc
+    attributes:
+      label: 补充说明（可选）
