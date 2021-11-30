@@ -39,30 +39,15 @@ body:
     validations:
       required: true
 
-  # Input | Reproduce
+  # Input | Issue
   - type: textarea
     id: reproduce-steps
     attributes:
-      label: 重现步骤
+      label: 遇到的错误
       description: |
+        您遇到的错误是什么？
         我们需要执行哪些操作才能让 bug 出现？
         简洁清晰的重现步骤能够帮助我们更迅速地定位问题所在。
-    validations:
-      required: true
-
-  # Input | Expected result
-  - type: textarea
-    id: expected
-    attributes:
-      label: 期望的结果是什么？
-    validations:
-      required: true
-
-  # Input | Actual result
-  - type: textarea
-    id: actual
-    attributes:
-      label: 实际的结果是什么？
     validations:
       required: true
 
