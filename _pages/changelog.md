@@ -8,19 +8,22 @@ locale: en
 
 # Changelog
 
-## **Version 1.1.17 **
+## **Version 1.1.18**
 
-Developing...
+Developing
 
-- ADDED: movie player - add current time display
-- ADDED: files - add FLV video format support
-- ADDED: add support for OneDrive for Bussiness
-- ADDED: add favorite button to emby item profile page
-- ADDED: add sort to emby list
 - ADDED: add auto load subtitle file with same name of the playing video
-- IMPROVED: improve user experience of emby
 - FIXED: fix issue that can not load subtitle from Files app
 - FIXED: fix issue that saved account not shown in connection tab
+
+## **Version 1.1.17 **
+
+- ADDED: add FLV video format support
+- ADDED: add favorite button to emby item profile page
+- ADDED: add my favorites to emby
+- ADDED: add sort to emby list
+- IMPROVED: improve user experience of emby
+- IMPROVED: improve control view of movie player
 
 ## **Version 1.1.16**
 
