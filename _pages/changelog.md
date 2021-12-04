@@ -18,12 +18,17 @@ Developing
 
 ## **Version 1.1.17 **
 
+- ADDED: add more AppIcon
 - ADDED: add FLV video format support
 - ADDED: add favorite button to emby item profile page
 - ADDED: add my favorites to emby
 - ADDED: add sort to emby list
+- ADDED: add double tap to back/fast forward to video player
 - IMPROVED: improve user experience of emby
 - IMPROVED: improve control view of movie player
+- IMPROVED: improve lock button to control touch is disabled
+- FIXED: fix issue that baidu vip can not play video in baidu pan
+- FIXED: fix issue that download file from Google Drive always failed
 
 ## **Version 1.1.16**
 
