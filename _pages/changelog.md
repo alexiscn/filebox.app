@@ -18,6 +18,8 @@ Developing
 
 ## **Version 1.1.17 **
 
+date: 2021-12-06 (build 85)
+
 - ADDED: add more AppIcon
 - ADDED: add FLV video format support
 - ADDED: add favorite button to emby item profile page
