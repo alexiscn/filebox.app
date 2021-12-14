@@ -12,9 +12,23 @@ locale: en
 
 Developing
 
+- ADDED: add Jellyfin support
+- ADDED: add switch control of play controls for video player
 - ADDED: add auto load subtitle file with same name of the playing video
+- ADDED: add open network stream entrance at lab page
+- ADDED: add URL Schemes at about page
+- IMPROVED: add video version at emby media page
+- IMPROVED: improve cover display ratio in emby search result page
+- IMPROVED: improve user experience of video player control
+- IMPROVED: fix issue that app may crash when enter some emby media page
+- FIXED: fix issue that default subtitle not selected at emby media page
 - FIXED: fix issue that can not load subtitle from Files app
 - FIXED: fix issue that saved account not shown in connection tab
+- FIXED: fix issue that file can not upload to root directory of OneDrive
+- FIXED: fix issue that new created folder does not show when moving remote files
+- FIXED: fix issue that batch rename may not working with cloud files
+- FIXED: fix issue that status bar will shown in movie player in iPad
+
 
 ## **Version 1.1.17 **
 
