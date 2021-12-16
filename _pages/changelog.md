@@ -10,13 +10,12 @@ locale: en
 
 ## **Version 1.1.18**
 
-Developing
-
 - ADDED: add Jellyfin support
+- ADDED: add switch Emby server to emby search page
 - ADDED: add switch control of play controls for video player
-- ADDED: add auto load subtitle file with same name of the playing video
 - ADDED: add open network stream entrance at lab page
 - ADDED: add URL Schemes at about page
+- IMPROVED: improve connection speed of emby
 - IMPROVED: add video version at emby media page
 - IMPROVED: improve cover display ratio in emby search result page
 - IMPROVED: improve user experience of video player control
