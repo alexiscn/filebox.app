@@ -8,7 +8,16 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.19**
+
+Developing
+
+- ADDED: add playlist support to cloud videos
+- ADDED: redesign music player
+
 ## **Version 1.1.18**
+
+date: 2021-12-18 (build 88)
 
 - ADDED: add Jellyfin support
 - ADDED: add switch Emby server to emby search page
