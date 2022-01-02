@@ -10,10 +10,18 @@ locale: en
 
 ## **Version 1.1.19**
 
-Developing
+Developing...
 
-- ADDED: add playlist support to cloud videos
-- ADDED: redesign music player
+- ADDED: add auto load subtitle with same name of the playing video file  from cloud service
+- ADDED: add playlist support to cloud service for cloud videos
+- ADDED: add pinch gesture to zoom video player
+- ADDED: add gesture settings for video player
+- ADDED: add photo support to emby
+- ADDED: add hide server address in connection tab
+- IMPROVED: all fields in file information page can be copied via long pressed gesture
+- FIXED: fix issue that in some sence emby connection always failed
+- FIXED: fix issue that cover display in wrong aspect of emby list
+- FIXED: fix issue that orientation of video player always fixed
 
 ## **Version 1.1.18**
 
