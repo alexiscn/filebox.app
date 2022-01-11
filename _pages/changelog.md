@@ -10,8 +10,6 @@ locale: en
 
 ## **Version 1.1.19**
 
-Developing...
-
 - ADDED: add auto load subtitle with same name of the playing video file  from cloud service
 - ADDED: add playlist support to cloud service for cloud videos
 - ADDED: add pinch gesture to zoom video player
@@ -46,7 +44,7 @@ date: 2021-12-18 (build 88)
 - FIXED: fix issue that status bar will shown in movie player in iPad
 
 
-## **Version 1.1.17 **
+## **Version 1.1.17**
 
 date: 2021-12-06 (build 85)
 
