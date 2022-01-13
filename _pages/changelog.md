@@ -8,7 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.20**
+
+Developing...
+
 ## **Version 1.1.19**
+
+date: 2022-01-11 (build 90)
 
 - ADDED: add auto load subtitle with same name of the playing video file  from cloud service
 - ADDED: add playlist support to cloud service for cloud videos
