@@ -19,8 +19,6 @@ Thanks for using Filebox, your support directly sustains the development.
 
 Filebox's core features, such as file management, music player, video player and text editor, are free. We also offer **Filebox Pro** edition, designed to meet the needs of professional users for more customization while maintaining our development efforts.
 
-Filebox Pro offers a variety of pricing strategies to fit different situations, such as monthly subscriptions, annual subscriptions, or one-time payment for lifetime premium, with **full functionality** free trials for subscription models.
-
 **Service Availability**
 
 When you use the same Apple ID on multiple devices, please follow the device limitations mentioned in the official ["Apple Media Services Terms and Conditions"](https://www.apple.com/legal/internet-services/itunes/us/terms.html) file.

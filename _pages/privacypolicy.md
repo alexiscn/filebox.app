@@ -17,7 +17,7 @@ This privacy policy applies to the iOS main app itself, its embedded frameworks 
 
 **Data Collected by Filebox**
 
-In short, the Filebox app itself does not collect any data from you. Yes, we don't do any data tracking technology for growth purpose, we don't even count how many users we have. We just want to provide a file management system, and do not care how "success" we are, or how the app is being used by users.
+In short, the Filebox app itself does not collect any data from you. 
 
 Please be confident about our service, all secrets stay on your device, we don't have control over them.
 
