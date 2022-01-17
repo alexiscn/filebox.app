@@ -10,7 +10,12 @@ locale: en
 
 ## **Version 1.1.20**
 
-Developing...
+- ADDED: add default cover to music player
+- IMPROVED: improve function of mpv player for emby
+- FIXED: fix issue that can not play audio from emby list
+- FIXED: fix issue that selected video version not played for emby
+- FIXED: fix issue that selected subtitle not loaded when playing video from emby
+- FIXED: fix issue that playlist only show 12 items when playing epsidoes from emby
 
 ## **Version 1.1.19**
 
