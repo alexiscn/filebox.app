@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.20**
 
+date: 2022-01-18 (build 92)
+
 - ADDED: add default cover to music player
 - IMPROVED: improve function of mpv player for emby
 - FIXED: fix issue that can not play audio from emby list
