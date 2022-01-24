@@ -14,12 +14,15 @@ locale: en
 - ADDED: add playlist support to audio player
 - ADDED: add playback speed setting to audio player
 - ADDED: add auto match metadata to audio player
+- ADDED: add channel list support to emby
 - ADDED: add hardware decode switch to mpv player
 - IMPROVED: use filename to search subtitle
 - FIXED: fix issue that can not edit metadata of local audio file
 - FIXED: fix issue that app crash when playback time reach to end when using mpv player
 - FIXED: fix issue that can not play next video using mpv player
 - FIXED: fix issue that external subtitle not loaded when using mpv player
+- FIXED: fix issue that music artist page display empty
+- FIXED: fix issue that audio cloud not played in audio detail page of emby
 
 ## **Version 1.1.20**
 
