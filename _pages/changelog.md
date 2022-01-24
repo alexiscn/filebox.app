@@ -8,6 +8,19 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.22**
+
+- ADDED: add lyrics support to audio player
+- ADDED: add playlist support to audio player
+- ADDED: add playback speed setting to audio player
+- ADDED: add auto match metadata to audio player
+- ADDED: add hardware decode switch to mpv player
+- IMPROVED: use filename to search subtitle
+- FIXED: fix issue that can not edit metadata of local audio file
+- FIXED: fix issue that app crash when playback time reach to end when using mpv player
+- FIXED: fix issue that can not play next video using mpv player
+- FIXED: fix issue that external subtitle not loaded when using mpv player
+
 ## **Version 1.1.20**
 
 date: 2022-01-18 (build 92)
