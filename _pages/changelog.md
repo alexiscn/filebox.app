@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.22**
 
+date: 2022-01-25 (build 96)
+
 - ADDED: add lyrics support to audio player
 - ADDED: add playlist support to audio player
 - ADDED: add playback speed setting to audio player
