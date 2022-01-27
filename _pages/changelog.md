@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.23**
+
+- ADDED: add new feature to lab
+- IMPROVED: improve mpv performance
+- FIXED: fix metadata missing for audio player
+- FIXED: fix playback speed will be reset when playing next item using mpv
+
 ## **Version 1.1.22**
 
 date: 2022-01-25 (build 96)
