@@ -8,6 +8,12 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.24**
+
+Developing...
+
+- ADDED: add screenshot feature to mpv player
+
 ## **Version 1.1.23**
 
 - ADDED: add new feature to lab
