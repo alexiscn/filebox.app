@@ -13,8 +13,11 @@ locale: en
 Developing...
 
 - ADDED: add screenshot feature to mpv player
+- FIXED: fix issue that screen will auto turn off when playing IPTV
 
 ## **Version 1.1.23**
+
+date: 2022-01-29 (build 98)
 
 - ADDED: add new feature to lab
 - IMPROVED: improve mpv performance
