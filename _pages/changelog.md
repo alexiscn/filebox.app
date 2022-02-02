@@ -12,8 +12,16 @@ locale: en
 
 Developing...
 
+- ADDED: add blur background to audio player
+- ADDED: add artist display to audio player
+- ADDED: add M3U file format support
+- ADDED: add export m3u file to tv list
 - ADDED: add screenshot feature to mpv player
+- ADDED: add switch to use mpv player to video player settings
 - FIXED: fix issue that screen will auto turn off when playing IPTV
+- FIXED: fix issue that OneDrive can not connect other account
+- FIXED: fix issue that file list file do not shown time of OneDrive
+
 
 ## **Version 1.1.23**
 
