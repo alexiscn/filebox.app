@@ -10,7 +10,7 @@ locale: en
 
 ## **Version 1.1.24**
 
-Developing...
+date: 2022-02-02 (build 100)
 
 - ADDED: add blur background to audio player
 - ADDED: add artist display to audio player
