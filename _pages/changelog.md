@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.25**
+
+Developing
+
+- ADDED: add gesture to adjust brightness and volume to tv player
+- ADDED: add play with system player to local video files
+- IMPROVED: trim whitespaces of login password
+
 ## **Version 1.1.24**
 
 date: 2022-02-02 (build 100)
