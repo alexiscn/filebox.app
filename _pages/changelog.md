@@ -13,8 +13,17 @@ locale: en
 Developing
 
 - ADDED: add gesture to adjust brightness and volume to tv player
-- ADDED: add play with system player to local video files
+- ADDED: add play with system player to local and remote video files
+- ADDED: add edit lyrics feature to audio player
+- ADDED: add PiP to MPV and IPTV player
+- ADDED: add import M3U playlist to IPTV
+- ADDED: add long press context menu to preview playlist for IPTV
+- ADDED: add refresh feature to all IPTV sources
+- ADDED: add playback speed setting to long pressed gesture for video player
+- ADDED: add switch to control whether display remain time for video player
+- ADDED: add switch to control whether display playback history in library
 - IMPROVED: trim whitespaces of login password
+- FIXED: fix issue that remote url in library can not be resumed
 
 ## **Version 1.1.24**
 
