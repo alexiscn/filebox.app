@@ -10,8 +10,6 @@ locale: en
 
 ## **Version 1.1.25**
 
-Developing
-
 - ADDED: add gesture to adjust brightness and volume to tv player
 - ADDED: add play with system player to local and remote video files
 - ADDED: add edit lyrics feature to audio player
@@ -23,6 +21,7 @@ Developing
 - ADDED: add switch to control whether display remain time for video player
 - ADDED: add switch to control whether display playback history in library
 - IMPROVED: trim whitespaces of login password
+- IMPROVED: improve user experience of emby search
 - FIXED: fix issue that remote url in library can not be resumed
 
 ## **Version 1.1.24**
