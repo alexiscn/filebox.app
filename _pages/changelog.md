@@ -17,6 +17,9 @@ locale: en
 - FIXED: fixed issue where Emby might have two players playing at the same time
 - FIXED: fixed issue that Emby My Favorite list could not be loaded
 - FIXED: fixed issue that the shared shortcut folder in GoogleDrive could not be loaded
+- FIXED: fixed issue that mpv player does not automatically load subtitles from the same directory
+- FIXED: fix issue that cloud not load subtitle with the same filename of cloud service
+- FIXED: fix issue that subtitles in the same directory are not loaded when resuming playback
 
 ## **Version 1.1.25**
 
