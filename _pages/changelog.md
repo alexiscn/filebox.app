@@ -8,7 +8,19 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.26**
+
+- ADDED: add long press context menu to move top to saved account
+- IMPROVED: optimize Emby search experience
+- IMPROVED: optimize player buffer progress bar color
+- FIXED: fixed issue where IPTV did not enter the IPTV player after entering the small window to resume
+- FIXED: fixed issue where Emby might have two players playing at the same time
+- FIXED: fixed issue that Emby My Favorite list could not be loaded
+- FIXED: fixed issue that the shared shortcut folder in GoogleDrive could not be loaded
+
 ## **Version 1.1.25**
+
+date: 2022-02-08 (build 102)
 
 - ADDED: add gesture to adjust brightness and volume to tv player
 - ADDED: add play with system player to local and remote video files
