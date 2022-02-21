@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.26**
 
+date: 2022-02-20 (build 106)
+
 - ADDED: add long press context menu to move top to saved account
 - IMPROVED: optimize Emby search experience
 - IMPROVED: optimize player buffer progress bar color
