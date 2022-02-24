@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.27**
 
+Developing...
+
 - ADDED: add rotate screen to MPV player
 - ADDED: add font size setting to MPV player
 - ADDED: add custom font setting to MPVPlayer
