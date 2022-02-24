@@ -8,6 +8,17 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.27**
+
+- ADDED: add rotate screen to MPV player
+- ADDED: add font size setting to MPV player
+- ADDED: add custom font setting to MPVPlayer
+- ADDED: add quick access to add server
+- FIXED: fix issue that selection state of audio track is wrong with MPV player
+- FIXED: fix issue that auth view not disappear when authed with OneDrive
+- FIXED: fix issue that the name of subtitle loaded from cloud service is wrong for MPV player
+- FIXED: fix issue that subtitle with same file name of the video not automatically loaded when played using MPV player
+
 ## **Version 1.1.26**
 
 date: 2022-02-20 (build 106)
