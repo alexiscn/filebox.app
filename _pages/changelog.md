@@ -10,8 +10,6 @@ locale: en
 
 ## **Version 1.1.27**
 
-Developing...
-
 - ADDED: add rotate screen to MPV player
 - ADDED: add font size setting to MPV player
 - ADDED: add custom font setting to MPVPlayer
@@ -20,6 +18,9 @@ Developing...
 - FIXED: fix issue that auth view not disappear when authed with OneDrive
 - FIXED: fix issue that the name of subtitle loaded from cloud service is wrong for MPV player
 - FIXED: fix issue that subtitle with same file name of the video not automatically loaded when played using MPV player
+- FIXED: fix issue that MPV player not paused when searching subtitle
+- FIXED: fix issue that video can not be played again when play to end using MPV player
+- FIXED: fix issue that cover incorrect in emby item detail page when item type is Movie/Series 
 
 ## **Version 1.1.26**
 
