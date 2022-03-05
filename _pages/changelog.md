@@ -8,6 +8,20 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.28**
+
+- ADDED: add create text file feature
+- ADDED: add vob video format support
+- ADDED: add TNAS protocol support
+- ADDED: add switch control to refresh IPTV subscriptions
+- ADDED: add playlist supprt to emby
+- ADDED: add force to use Chinese subtitle for emby in lab
+- ADDED: add groups to IPTV
+- IMPROVED: improve user experience of lock button in video player
+- FIXED: fix issue that mpv player not play next item when play to end
+- FIXED: fix crash issue that when mpv can not get video width and height info
+- FIXED: fix crash issue that when deleting watched item of emby
+
 ## **Version 1.1.27**
 
 date: 2022-02-27 (build 108)
