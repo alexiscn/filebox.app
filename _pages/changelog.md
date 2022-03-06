@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.28**
 
+date: 2022-03-06 (build 110)
+
 - ADDED: add create text file feature
 - ADDED: add vob video format support
 - ADDED: add TNAS protocol support
