@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.29**
+
+- ADDED: add group items count display to IPTV
+- FIXED: fix issue that UI elements not displayed correctly in settings page
+- FIXED: fix issue that some video's audio and subtitle track will not be loaded correctly when playing with MPV player
+- FIXED: fix issue that new refresh items will be reset in emby library page
+
 ## **Version 1.1.28**
 
 date: 2022-03-06 (build 110)
