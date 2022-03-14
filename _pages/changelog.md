@@ -8,7 +8,21 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.30**
+
+- ADDED: add groups to IPTV
+- ADDED: add favorite channel to IPTV
+- ADDED: add switch control to include subtitles in screenshot for mpv player
+- ADDED: add toggle password button to remote login form
+- IMPROVED: improve UI of upcoming list of emby
+- FIXED: fix issue that OneDrive file list can only display max to 200 items
+- FIXED: fix issue that delete file confirmation switch not working for remote files
+- FIXED: fix issue that playing music item not highlighted in playlist
+- FIXED: fix artwork aspect ratio issue of of emby
+
 ## **Version 1.1.29**
+
+date: 2022-03-06 (build 112)
 
 - ADDED: add group items count display to IPTV
 - FIXED: fix issue that UI elements not displayed correctly in settings page
