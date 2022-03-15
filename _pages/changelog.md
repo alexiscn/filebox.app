@@ -10,11 +10,16 @@ locale: en
 
 ## **Version 1.1.30**
 
+- ADDED: add adjust subtitle position feature to MPV player
+- ADDED: add subtitle border settings to MPV player
+- ADDED: add adjust subtitle delay feature to video player
 - ADDED: add groups to IPTV
 - ADDED: add favorite channel to IPTV
 - ADDED: add switch control to include subtitles in screenshot for mpv player
 - ADDED: add toggle password button to remote login form
+- ADDED: add mark played feature to emby detail page
 - IMPROVED: improve UI of upcoming list of emby
+- IMPROVED: improve UX of adjust font size in video player
 - FIXED: fix issue that OneDrive file list can only display max to 200 items
 - FIXED: fix issue that delete file confirmation switch not working for remote files
 - FIXED: fix issue that playing music item not highlighted in playlist
