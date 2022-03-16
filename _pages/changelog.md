@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.30**
 
+date: 2022-03-16 (build 116)
+
 - ADDED: add adjust subtitle position feature to MPV player
 - ADDED: add subtitle border settings to MPV player
 - ADDED: add adjust subtitle delay feature to video player
