@@ -8,6 +8,19 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.31**
+
+- ADDED: add mount local folder feature
+- ADDED: add PikPak support
+- ADDED: add button to refresh continue wathcing section
+- IMPROVED: improve user experience of emby search
+- IMPROVED: improve user experience of emby item detail page
+- FIXED: fix issue that artwork of emby item maybe disrupted
+- FIXED: fix issue that some Chinese subtitles may not loaded for emby
+- FIXED: fix issue that app may crash when enter emby
+- FIXED: fix issue that font settings not working for default video player
+- FIXED: fix issue that some video on SMB can not be played
+
 ## **Version 1.1.30**
 
 date: 2022-03-16 (build 116)
