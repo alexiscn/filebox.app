@@ -13,9 +13,10 @@ locale: en
 - ADDED: add mount local folder feature
 - ADDED: add PikPak support
 - ADDED: add button to refresh continue wathcing section
+- ADDED: add switch to prefer use system player
 - IMPROVED: improve user experience of emby search
 - IMPROVED: improve user experience of emby item detail page
-- FIXED: fix issue that artwork of emby item maybe disrupted
+- FIXED: fix issue that artwork of emby item maybe interrupted
 - FIXED: fix issue that some Chinese subtitles may not loaded for emby
 - FIXED: fix issue that app may crash when enter emby
 - FIXED: fix issue that font settings not working for default video player
