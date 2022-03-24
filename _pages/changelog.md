@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.31**
 
+date: 2022-03-24 (build 118)
+
 - ADDED: add mount local folder feature
 - ADDED: add PikPak support
 - ADDED: add button to refresh continue wathcing section
