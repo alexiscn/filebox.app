@@ -8,6 +8,16 @@ locale: en
 
 # Changelog
 
+Developing...
+
+- ADDED: add context menu to edit lrc file
+- ADDED: add switch to control prefer load local lyrics
+- FIXED: fix issue that artwork will be clipped of emby item
+- FIXED: fix issue that video player will be closed after saved image
+- FIXED: fix issue that mp4 video served on SMB can not played with AVPlayer
+- FIXED: fix issue that duration can not parsed from local FLAC files
+- REMOVED: remove MEGA support
+
 ## **Version 1.1.31**
 
 date: 2022-03-24 (build 118)
