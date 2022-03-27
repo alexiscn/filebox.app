@@ -8,14 +8,18 @@ locale: en
 
 # Changelog
 
-Developing...
-
+- ADDED: add change pasword feature to Emby
+- ADDED: add Quark support
 - ADDED: add context menu to edit lrc file
 - ADDED: add switch to control prefer load local lyrics
+- ADDED: add media source name to media codec section for emby
 - FIXED: fix issue that artwork will be clipped of emby item
 - FIXED: fix issue that video player will be closed after saved image
 - FIXED: fix issue that mp4 video served on SMB can not played with AVPlayer
 - FIXED: fix issue that duration can not parsed from local FLAC files
+- FIXED: fix some connection issue with PikPak connection
+- FIXED: fix issue that audio player not paused when playing video using mpv player
+- FIXED: fix issue that moving files not working with Google Team Drive
 - REMOVED: remove MEGA support
 
 ## **Version 1.1.31**
