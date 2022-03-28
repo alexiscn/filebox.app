@@ -8,6 +8,8 @@ locale: en
 
 # Changelog
 
+date: 2022-03-28 (build 120)
+
 - ADDED: add change pasword feature to Emby
 - ADDED: add Quark support
 - ADDED: add context menu to edit lrc file
