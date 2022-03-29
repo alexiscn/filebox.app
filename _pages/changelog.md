@@ -20,6 +20,7 @@ locale: en
 - FIXED: fix issue that audio player duration is empty in now playing center
 - FIXED: fix issue that video from OneDrive can not be resumed in library
 - FIXED: fix issue that rename file not working with PikPak and Quark
+- FIXED: fix time format issue with Quark
 
 ## **Version 1.1.32**
 
