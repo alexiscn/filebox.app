@@ -8,6 +8,21 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.33**
+
+- ADDED: add option to control iCloud sync for single connection
+- IMPROVED: improve icon of subtitle menu
+- IMPROVED: improve logics of Quark cookie expires issue
+- IMPROVED: improve user experience of quick emby search
+- FIXED: fix issue that mounted local folder can not open after reboot device
+- FIXED: fix issue that status bar always show when playing video using iPad
+- FIXED: fix issue that tabbar touch delay with emby
+- FIXED: fix issue that audio player duration is empty in now playing center
+- FIXED: fix issue that video from OneDrive can not be resumed in library
+- FIXED: fix issue that rename file not working with PikPak and Quark
+
+## **Version 1.1.32**
+
 date: 2022-03-28 (build 120)
 
 - ADDED: add change pasword feature to Emby
