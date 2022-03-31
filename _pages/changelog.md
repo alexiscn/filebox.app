@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.35**
+
+Developing...
+
+- FIXED: fix issue that type Genre and Studio in search result of emby not supported
+- FIXED: fix issue that downloaded file not shown in files list
+
 ## **Version 1.1.33**
 
 - ADDED: add option to control iCloud sync for single connection
