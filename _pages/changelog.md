@@ -19,6 +19,8 @@ locale: en
 
 ## **Version 1.1.33**
 
+date: 2022-03-30 (build 122)
+
 - ADDED: add option to control iCloud sync for single connection
 - IMPROVED: improve icon of subtitle menu
 - IMPROVED: improve logics of Quark cookie expires issue
