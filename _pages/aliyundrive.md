@@ -14,7 +14,7 @@ locale: en
 
 3. 找到 Application -> Storage -> Local Storage -> Token -> refresh_token
 
-![](assets/aliyundrive.png)
+![](/assets/aliyundrive.png)
 
 ## 如何用手机Safari获取
 
