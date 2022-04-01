@@ -10,10 +10,12 @@ locale: en
 
 ## **Version 1.1.35**
 
-Developing...
-
+- ADDED: add view media info feature to MPV player
+- ADDED: add help function to some remote type login
+- ADDED: add iCloud sync switch to some cloud services
 - FIXED: fix issue that type Genre and Studio in search result of emby not supported
 - FIXED: fix issue that downloaded file not shown in files list
+- FIXED: fix issue that connection type can be changed when editing
 
 ## **Version 1.1.33**
 
