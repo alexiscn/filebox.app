@@ -6,8 +6,17 @@ include_in_footer: false
 locale: en
 ---
 
+## 如何用Chrome浏览器获取
 
-## 如何用手机Safari获取阿里云盘refresh_token
+1. 在电脑上使用 Chrome 浏览器登录阿里云盘官网 https://www.aliyundrive.com/drive
+
+2. 选择 Chrome 的菜单 -> 视图 -> 开发者 -> 审查元素 （或者直接在网页上右击，选择审查元素）
+
+3. 找到 Application -> Storage -> Local Storage -> Token -> refresh_token
+
+![](assets/aliyundrive.png)
+
+## 如何用手机Safari获取
 
 1. 从AppStore下载Web Inspector并安装
 
