@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 阿里云盘
-include_in_header: true
+include_in_header: false
 include_in_footer: false
 locale: en
 ---
