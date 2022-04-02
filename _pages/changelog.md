@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.35**
 
+date: 2022-04-02 (build 128)
+
 - ADDED: add view media info feature to MPV player
 - ADDED: add help function to some remote type login
 - ADDED: add iCloud sync switch to some cloud services
