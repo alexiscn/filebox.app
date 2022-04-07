@@ -8,6 +8,13 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.36**
+
+- ADDED: add global search to BaiduPan/GoogleDrive/OneDrive
+- ADDED: add video and audio track memory for emby series
+- ADDED: add activity indicator to cloud service searching
+- FIXED: fix video color issue with HDR playing using MPV player
+
 ## **Version 1.1.35**
 
 date: 2022-04-02 (build 128)
