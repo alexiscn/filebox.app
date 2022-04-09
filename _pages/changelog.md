@@ -13,7 +13,11 @@ locale: en
 - ADDED: add global search to BaiduPan/GoogleDrive/OneDrive
 - ADDED: add video and audio track memory for emby series
 - ADDED: add activity indicator to cloud service searching
+- ADDED: add switch control to save screenshot with one click to video player
+- IMPROVED: improve search experience of emby
 - FIXED: fix video color issue with HDR playing using MPV player
+- FIXED: fix issue that multiple players may play at the same time when playing through URL Scheme
+- FIXED: fix issue that full screen setting for video player not working with MPV player
 
 ## **Version 1.1.35**
 
