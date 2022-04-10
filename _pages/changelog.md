@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.36**
 
+date: 2022-04-10 (build 130)
+
 - ADDED: add global search to BaiduPan/GoogleDrive/OneDrive
 - ADDED: add video and audio track memory for emby series
 - ADDED: add activity indicator to cloud service searching

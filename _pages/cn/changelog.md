@@ -10,6 +10,8 @@ locale: cn
 
 ## **Version 1.1.36**
 
+发布日期：2022-04-10 (build 130)
+
 - 新增: 百度云盘/GoogleDrive/OneDrive 新增全局搜索
 - 新增: Emby 新增视频/音频版本记忆功能
 - 新增: 云端搜索增加进度指示器
