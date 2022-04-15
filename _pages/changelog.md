@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.37**
+
+Developing...
+
+- ADDED: add format based batch rename feature
+- ADDED: add global search to Quark service
+- FIXED: fix issue that local WAV music can not be played with audio player
+- FIXED: fix playlist order issue for video player
+
 ## **Version 1.1.36**
 
 date: 2022-04-10 (build 130)
