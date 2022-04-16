@@ -10,12 +10,15 @@ locale: en
 
 ## **Version 1.1.37**
 
-Developing...
-
 - ADDED: add format based batch rename feature
 - ADDED: add global search to Quark service
+- ADDED: add context menu to favorite cloud folder
+- ADDED: add battery level view to video player
+- IMPROVED: improve user experience of playback rate
 - FIXED: fix issue that local WAV music can not be played with audio player
 - FIXED: fix playlist order issue for video player
+- FIXED: fix issue that can not resume video from mounted folder
+- FIXED: fix issue that no error alert when login failed with PikPak
 
 ## **Version 1.1.36**
 
