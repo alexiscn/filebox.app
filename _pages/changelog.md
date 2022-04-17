@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.37**
 
+date: 2022-04-17 (build 132)
+
 - ADDED: add format based batch rename feature
 - ADDED: add global search to Quark service
 - ADDED: add context menu to favorite cloud folder
