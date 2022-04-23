@@ -8,6 +8,19 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.38**
+
+- ADDED: add tag group feature to connections
+- ADDED: move favorited cloud folders to File tab
+- ADDED: add settings entrance for emby
+- ADDED: add media library management feature for emby
+- ADDED: add toggle switch to control display unwatched number for emby
+- FIXED: fix issue that copy to filebox
+- FIXED: fix issue that lock gesture button not shown in portraint mode for video player
+- FIXED: fix issue that continue watching not updated in time
+- FIXED: fix issue that some library do not show view all for emby
+- FIXED: fix layout issue with audio player in iPhone 7
+
 ## **Version 1.1.37**
 
 date: 2022-04-17 (build 132)
