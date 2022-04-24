@@ -11,6 +11,8 @@ locale: en
 
 ## **Version 1.0.1**
 
+date: 2022-04-24 (build 41) 
+
 - ADDED: add audio track selection in swipe down panel for video player
 - ADDED: add subtitle track selecton in swipe down panel for video player
 - ADDED: add playlist selection in swipe down panel for video player
