@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.38**
 
+date: 2022-04-24 (build 134)
+
 - ADDED: add tag group feature to connections
 - ADDED: move favorited cloud folders to File tab
 - ADDED: add settings entrance for emby
