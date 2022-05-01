@@ -8,6 +8,26 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.39**
+
+Developing...
+
+- ADDED: add epg support to IPTV
+- ADDED: add iCloud sync feature to IPTV
+- ADDED: add reorder feature to IPTV
+- ADDED: add channel list to IPTV
+- ADDED: add settings for IPTV
+- ADDED: add reorder feature to connections
+- ADDED: add transparency setting to video player controls
+- ADDED: add 5 seconds fast forward option to video player
+- IMPROVED: improve user experience using gesture to adjust volume and brightness for video player
+- FIXED: fix issue that the file list maybe out of order when batch renaming
+- FIXED: fix issue that text maybe truncated when selecting video verison in Emby
+- FIXED: fix issue that click link in local markdown file may cause crash
+- FIXED: fix issue that SMB port can not be customized
+- FIXED: fix issue that not able to connect to some SMB services
+
+
 ## **Version 1.1.38**
 
 date: 2022-04-24 (build 134)
