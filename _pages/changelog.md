@@ -23,6 +23,7 @@ locale: en
 - FIXED: fix issue that click link in local markdown file may cause crash
 - FIXED: fix issue that SMB port can not be customized
 - FIXED: fix issue that not able to connect to some SMB services
+- FIXED: fix issue that external subtitle selection not saved
 
 
 ## **Version 1.1.38**
