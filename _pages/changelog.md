@@ -10,9 +10,6 @@ locale: en
 
 ## **Version 1.1.39**
 
-Developing...
-
-- ADDED: add epg support to IPTV
 - ADDED: add iCloud sync feature to IPTV
 - ADDED: add reorder feature to IPTV
 - ADDED: add channel list to IPTV
