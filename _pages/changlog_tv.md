@@ -8,6 +8,20 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.2**
+
+- ADDED: add IPTV entrance
+- ADDED: add iCloud sync feature to IPTV
+- ADDED: add arrow down(up) to show(hide) info tab
+- ADDED: add overview info to video info tab
+- ADDED: add playback history to cloud video files
+- ADDED: add reorder feature to cloud files
+- FIXED: fix emby reorder related bugs
+- FIXED: fix issue that focus state of info tab list
+- FIXED: fix issue that can not change playlist
+- FIXED: fix issue that info not updated when change playing item
+- FIXED: fix issue that playing title not updated when change playing item
+- FIXED: fix issue that metadata provider can not changed
 
 ## **Version 1.0.1**
 
