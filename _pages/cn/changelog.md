@@ -10,6 +10,8 @@ locale: cn
 
 ## **Version 1.1.39**
 
+发布日期：2022-05-04 (build 138)
+
 - 新增: IPTV 新增 iCloud 同步支持
 - 新增: IPTV 新增排序功能
 - 新增: IPTV 新增频道列表功能

@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.39**
 
+date: 2022-05-04 (build 138)
+
 - ADDED: add iCloud sync feature to IPTV
 - ADDED: add reorder feature to IPTV
 - ADDED: add channel list to IPTV
