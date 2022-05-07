@@ -8,6 +8,21 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.40**
+
+- ADDED: add screencast switch to lab
+- Added: adds support for subtitle background color feature for MPV player
+- ADDED: add image preview support to 115
+- ADDED: add image and video thumbnail support for Quark
+- IMPROVED: improve IPTV user experience
+- FIXED: fix issue that black border at the bottom of IPTV player
+- FIXED: fix issue that address cannot be modified when editing the connection
+- FIXED: fix issue that can't view pictures with 115
+- FIXED: fix issue that moving files not working with 115
+- FIXED: fix issue that incorrect display of file size in the search result of 115
+- FIXED: fix issue that moving files not working with PikPak
+- FIXED: fix issue that cannot view large images with  OneDrive E5 account
+
 ## **Version 1.1.39**
 
 date: 2022-05-04 (build 138)

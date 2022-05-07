@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.2**
 
+date: 2022-05-05 (build 42) 
+
 - ADDED: add IPTV entrance
 - ADDED: add iCloud sync feature to IPTV
 - ADDED: add arrow down(up) to show(hide) info tab
