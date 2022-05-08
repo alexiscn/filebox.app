@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.40**
 
+date: 2022-05-08 (build 140)
+
 - ADDED: add screencast switch to lab
 - Added: adds support for subtitle background color feature for MPV player
 - ADDED: add image preview support to 115
