@@ -8,6 +8,16 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.41**
+
+Developing...
+
+- ADDED: add support to Cloud 189
+- ADDED: add image and video preview support to PikPak
+- FIXED: fix some crash when click screencast button
+- FIXED: fix issue that screencast result turns blank
+- FIXED: fix issue that video from 115/PikPak/Quark can not resumed in library
+
 ## **Version 1.1.40**
 
 date: 2022-05-08 (build 140)
