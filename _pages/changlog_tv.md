@@ -8,6 +8,16 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.3**
+
+- ADDED: add support to 115 cloud
+- ADDED: add support to 189 cloud
+- ADDED: add mpv optimization switch control
+- FIXED: fix issue that playback history not updated when close video player
+- FIXED: fix issue that speed indicator always shown for default video player
+- FIXED: fix issue that video title not updated when auto play next item
+
+
 ## **Version 1.0.2**
 
 date: 2022-05-05 (build 42) 

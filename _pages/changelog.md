@@ -10,13 +10,15 @@ locale: en
 
 ## **Version 1.1.41**
 
-Developing...
-
 - ADDED: add support to Cloud 189
 - ADDED: add image and video preview support to PikPak
 - FIXED: fix some crash when click screencast button
 - FIXED: fix issue that screencast result turns blank
 - FIXED: fix issue that video from 115/PikPak/Quark can not resumed in library
+- FIXED: fix issue that progress bar jumps when touching slider to seek for mpv player
+- FIXED: fix issue that mp4 video file can not played with AVPlayer issue for 115 cloud
+- FIXED: fix issue pip not shown for 115 cloud
+- FIXED: fix issue that start pip always failed for some devices
 
 ## **Version 1.1.40**
 
