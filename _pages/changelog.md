@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.41**
 
+date: 2022-05-11 (build 142)
+
 - ADDED: add support to Cloud 189
 - ADDED: add image and video preview support to PikPak
 - FIXED: fix some crash when click screencast button
