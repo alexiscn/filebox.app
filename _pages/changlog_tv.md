@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.3**
 
+date: 2022-05-12 (build 43) 
+
 - ADDED: add support to 115 cloud
 - ADDED: add support to 189 cloud
 - ADDED: add mpv optimization switch control
