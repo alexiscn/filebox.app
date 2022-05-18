@@ -8,6 +8,23 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.42**
+
+- ADDED: add image thumbnail support to WebDAV
+- ADDED: add EPG support to IPTV
+- ADDED: add channel list support to IPTV
+- ADDED: add search feature to IPTV
+- ADDED: add more subtitle online service to video player
+- ADDED: add switch to control double tap to refresh library for Emby
+- IMPROVED: improve user experience adding IPTV connection
+- IMPROVED: improve user experience connecting to Synology with 2-Step verification
+- IMPROVED: remove blank space in batch rename format mode
+- FIXED: fix issue that navigation bar missing for Quark/115 of iPad
+- FIXED: fix issue that parse some M3U always failed
+- FIXED: fix issue that 189 family can not be added
+- FIXED: fix issue that local M3U connection synced with iCloud
+- FIXED: fix issue that video of 115 sometime can not be played
+
 ## **Version 1.1.41**
 
 date: 2022-05-11 (build 142)
