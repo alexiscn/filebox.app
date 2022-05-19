@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.1.42**
 
+date: 2022-05-18 (build 148)
+
 - ADDED: add image thumbnail support to WebDAV
 - ADDED: add EPG support to IPTV
 - ADDED: add channel list support to IPTV
@@ -19,6 +21,7 @@ locale: en
 - IMPROVED: improve user experience adding IPTV connection
 - IMPROVED: improve user experience connecting to Synology with 2-Step verification
 - IMPROVED: remove blank space in batch rename format mode
+- IMPROVED: improve thumbnail cache for SMB
 - FIXED: fix issue that navigation bar missing for Quark/115 of iPad
 - FIXED: fix issue that parse some M3U always failed
 - FIXED: fix issue that 189 family can not be added
