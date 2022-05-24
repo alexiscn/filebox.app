@@ -8,6 +8,21 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.43**
+
+- ADDED: add txt format support to IPTV
+- ADDED: add progress seek support to IPTV
+- ADDED: add aspect ratio support to IPTV
+- ADDED: add playback history to IPTV
+- ADDED: add new file theme
+- ADDED: add playback history support to local videos
+- IMPROVED: show selected file number when editing files
+- FIXED: fix issue that play audio from BaiduPan sometimes stucked
+- FIXED: change to play origin file for BaiduPan
+- FIXED: fix issue that reorder connections not working 
+- FIXED: fix issue that some tvg logo can not displayed
+- FIXED: fix issue that items number not updated after moved files
+
 ## **Version 1.1.42**
 
 date: 2022-05-18 (build 148)
