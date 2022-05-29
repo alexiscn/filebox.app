@@ -8,6 +8,14 @@ locale: en
 
 # Changelog
 
+## **Version 1.1.44**
+
+Developing...
+
+- ADDED: add a switch to control wheather resume playback from background
+- FIXED: fix issue that connections not updated in time for iPad
+- FIXED: fix issue that EPG may not updated in time
+
 ## **Version 1.1.43**
 
 - ADDED: add txt format support to IPTV

@@ -8,6 +8,15 @@ locale: en
 
 # Changelog
 
+## **Version 1.0.4**
+
+Developing...
+
+- ADDED: add playback history to IPTV
+- IMPROVED: change video quality to origin for BaiduPan
+- IMPROVED: improve user experience for IPTV playback selection
+- FIXED: fix issue that edit IPTV not working
+
 ## **Version 1.0.3**
 
 date: 2022-05-12 (build 43) 
