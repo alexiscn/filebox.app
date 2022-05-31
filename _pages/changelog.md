@@ -12,9 +12,12 @@ locale: en
 
 Developing...
 
+- ADDED: add cloud 139 support
 - ADDED: add a switch to control wheather resume playback from background
 - FIXED: fix issue that connections not updated in time for iPad
 - FIXED: fix issue that EPG may not updated in time
+- FIXED: fix issue that some IPTV source parse failed
+- FIXED: fix issue that local IPTV connection can changed file url
 
 ## **Version 1.1.43**
 
