@@ -10,19 +10,19 @@ locale: en
 
 ## **Version 1.0.4**
 
-Developing...
-
 - ADDED: add playback history to IPTV
 - ADDED: add TXT format support to IPTV
 - ADDED: add search channel feature to IPTV
 - ADDED: add back to emby home button to emby profile page
 - ADDED: add aspect ratio feature to player
+- ADDED: add forward/backward step feature to player
 - IMPROVED: change video quality to origin for BaiduPan
 - IMPROVED: improve user experience for IPTV playback selection
 - FIXED: fix issue that edit IPTV not working
 - FIXED: fix issue that some tvg logo can not displayed
 - FIXED: fix issue that last played channel not remembered for IPTV
 - FIXED: fix issue that playback speed not updated after changed speed
+- FIXED: fix issue that playback history not saved for Emby
 
 ## **Version 1.0.3**
 
