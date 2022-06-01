@@ -10,6 +10,8 @@ locale: en
 
 ## **Version 1.0.4**
 
+date: 2022-06-01 (build 44) 
+
 - ADDED: add playback history to IPTV
 - ADDED: add TXT format support to IPTV
 - ADDED: add search channel feature to IPTV
