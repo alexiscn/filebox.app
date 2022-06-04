@@ -10,16 +10,20 @@ locale: en
 
 ## **Version 1.1.44**
 
-Developing...
-
+- ADDED: add delete playback history feature
 - ADDED: add cloud 139 support
 - ADDED: add a switch to control wheather resume playback from background
 - FIXED: fix issue that connections not updated in time for iPad
 - FIXED: fix issue that EPG may not updated in time
 - FIXED: fix issue that some IPTV source parse failed
 - FIXED: fix issue that local IPTV connection can changed file url
+- FIXED: fix issue that can not connect emby for some case
+- FIXED: fix issue that error message of networking error for Emby
+- FIXED: fix issue that external subtitle not remembered for default video player
 
 ## **Version 1.1.43**
+
+date: 2022-05-25 (build 149)
 
 - ADDED: add txt format support to IPTV
 - ADDED: add progress seek support to IPTV
